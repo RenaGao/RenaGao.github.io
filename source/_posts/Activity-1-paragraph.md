@@ -8,7 +8,7 @@ This is a practice writing piece during the second seminar of Professional Liter
 
 <!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
 
-<img src="/images/activity-1-paragraph-image1.jpeg" width="286" height="440" />
+<img src="/assets/images/activity-1-paragraph-image1.jpeg" width="286" height="440" />
 
 ## The world through my window 
 
