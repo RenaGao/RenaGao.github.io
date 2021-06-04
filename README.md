@@ -1,2 +1,2 @@
 # RenaGao.github.io
-Rena's e-Portfolio
+This is Rena's e-Portfolio
