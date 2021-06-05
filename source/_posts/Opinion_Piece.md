@@ -20,7 +20,7 @@ As a way of [online language learning](https://www.education.vic.gov.au/language
 
 ## Motivation is key
 
-<img src="/assets/images/op2.png" width="60" height="300" />
+<img src="/assets/images/op2.png" width="600" height="300" />
 
 These language learning apps are all free and communicative to attract new learner’s interest. Some apps have [gamification](https://www.trueeducationpartnerships.com/schools/gamification-in-education/) and [communication](https://www.whatiselt.com/single-post/2018/08/23/What-is-the-Communicative-Approach) functions to inspire learners to learn a new language in a [virtual community](https://www.brendansailing.org/programs.html). 
 
@@ -40,7 +40,7 @@ Language learning apps can make language learners fulfilled after finishing dail
 
 
 <div style="width: 500px;">
-        <img src="/assets/images/op3.png" align="left" width="150" height="200"><br />
+        <img src="/assets/images/op3.png" align="left" width="200" height="300"><br />
     </div>
     <p>As an <a href="https://trainingindustry.com/glossary/informal-learning/">informal learning</a > activity, learning through smartphone apps is interesting.</p>
     <p>Language learning apps are different from <a href="https://www.learnupon.com/blog/formal-and-informal-learning/">formal learning</a >, such as <a href="https://www.jstor.org/stable/41948666?seq=1">in-class teaching and learning</a >, or <a href="https://www.indeed.com/career-advice/career-development/what-is-vocational-training">vocational training</a > on language with planned sessions. 
