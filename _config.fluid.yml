@@ -308,7 +308,7 @@ navbar:
         key: "Opinion Piece", link: "#",
         icon: "iconfont icon-comment",
           submenu: [
-          { key: 'Introduction & Reflection', link: '2021/05/25/Introduction-and-reflection-on-opinion-piece/' },
+          { key: 'Introduction & Reflection', link: '2021/05/14/Introduction-and-reflection-on-opinion-piece/' },
           { key: 'Main Article', link: '2021/05/15/Opinion_Piece/' },
         ]
       }
