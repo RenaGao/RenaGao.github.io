@@ -1,16 +1,16 @@
 ---
-title: Introduction and reflection on Opinion Piece
+title: Introduction & Reflection on opinion piece
 date: 2021-05-25 15:45:12
 tags: opinion-piece
 ---
-## Introducion
+## Introduction of opinion piece:
 
 This opinion piece is about the usage of language learning apps on smartphones and their advantages in assisting language learners. It can function as a ‘fun starter’ for new beginners. I often heard a lot of learners complaining about how hard they felt when touching a new language. Regarding my personal experience, it occurs to me that as a linguistics major, I can introduce this way of learning to the general audience helping them to learn. 
 
 This opinion piece expresses the subjective opinion from the author instead of an academic argumentation overall. Compared with the voice of an academic paper, this opinion piece is a different genre needing a more comprehensible style and a credible voice. To draft this opinion piece, I read plenty of articles on The Conversations to familiarize the professional style. 
 
 
-## Reflection:
+## Reflection of opinion piece:
 
 - Learning to adopt different genre
 
