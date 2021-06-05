@@ -4,7 +4,6 @@ date: 2021-06-03 15:20:20
 tags: interview
 ---
 
-
 ## Executive Summary
 This report investigates the studying status and life experiences of current students of the University of Melbourne during the COVID-19 pandemic in 2020, namely the School of Language and Linguistics. This interview report focuses on how the pandemic impacted the life of international students who were resident in Melbourne during their studying abroad life. It aims to discover the challenges in online learning, social life and working plan and provide recommendations for international students and staff in the School of Languages and Linguistics.
 
