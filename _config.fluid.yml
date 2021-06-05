@@ -309,17 +309,19 @@ navbar:
         icon: "iconfont icon-comment",
           submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/25/Introduction-and-reflection-on-opinion-piece/' },
-          { key: 'Main article', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'Main Article', link: '2021/05/15/Opinion_Piece/' },
         ]
       }
-#     - {
-#         key: "Papers", link: "#",
-#         icon: "iconfont icon-book",
-#           submenu: [
-#           { key: 'Activity Paragraph 1', link: '/2021/06/05/Activity-1-paragraph/' },
-#           { key: 'Interview Report', link: '/2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
-#         ]
-#       }
+    - {
+        key: "Job Set", link: "#",
+        icon: "iconfont icon-addrcard",
+          submenu: [
+          { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' }
+          { key: 'Cover Letter', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'CV', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'Response', link: '2021/05/15/Opinion_Piece/'}
+        ]
+      }
 #     - { key: "Opinion Piece", link: "/2021/05/24/Introduction-and-reflection-on-the-Interview-report/", icon: "iconfont icon-user-fill" }
     # - { key: "archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
     # - { key: "categories", link: "/categories/", icon: "iconfont icon-category-fill" }
