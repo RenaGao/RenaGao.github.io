@@ -6,7 +6,7 @@ tags: job_set
 ## Resume:
 
 Here is my CV
-<div><p>You can download it! <p> <a href="/assets/files/Wei-Gao-PL-PhD-CV.pdf" download="Wei-Gao-PL-PhD-CV.pdf" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Download<a/></div>
+<div><p>You can download it! <p> <a href="/assets/files/CV-converted.pdf" download="CV-converted.pdf" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Download<a/></div>
 
 
 <object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="100%" height="100%" border="0"><!--IE--> 
