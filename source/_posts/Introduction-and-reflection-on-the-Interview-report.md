@@ -21,7 +21,7 @@ During the process of each interview, four group members would all be in the Zoo
 
 Before conducting this assignment, I have interview experience when I was the Research Assistant in the Australian Center. But I mainly help to collect data and analyse discourse data instead of design an interview individually by myself. When first dived into this report, I began to wonder what is worth interviewing for international students in Australian university since I hold such an identity myself. After a reflection on my own experience in the past year, I think to interest the impact of the pandemic on international students would be interesting and meaningful. Thus, I decided to set the topic as:
 
-> **_NOTE:_** How COVID-19 Pandemic Affect Studying Abroad in Australian University: A Case of Master Students in School of Language and Linguistics
+>  How COVID-19 Pandemic Affect Studying Abroad in Australian University: A Case of Master Students in School of Language and Linguistics
 
 - Make everyone clear about their role
 
