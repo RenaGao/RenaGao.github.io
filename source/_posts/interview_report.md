@@ -1,5 +1,5 @@
 ---
-title: How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
+title: How the COVID-19 Pandemic Affects Studying Abroad
 date: 2021-06-03 15:20:20
 tags: interview
 ---
