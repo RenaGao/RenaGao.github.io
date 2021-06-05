@@ -1,6 +1,6 @@
 ---
 title: How the COVID-19 Pandemic Affects Studying Abroad
-date: 2021-06-03 15:20:20
+date: 2021-05-20 15:20:20
 tags: interview
 ---
 
@@ -39,7 +39,7 @@ Though subjects were all delivered online due to the pandemic, most interviewees
 
 In addition, Siri and Katrina pointed out another advantage of online study – recordings. The recordings provided opportunities for students to review the online lectures or seminars repeatedly, thus helped them better comprehend teaching content. Siri mentioned that when he could not follow the teachers in the live Zoom session, recordings helped a lot. Besides, Katrina recalled when she was confused about certain points, she told us:
 
-> "I would watched the recordings again”. — Katrina
+<p class="note note-info">"I would watched the recordings again”. — Katrina</p>
 
 Online study also gives much freedom for students in the personal arrangement. For Katrina and Clarisse, who lived far away from the campus, the online studying saved much time on transportation, as said by Katrina “I didn’t need to get up early for class”. Moreover, the less-constrained online studying provided a transitional period for Clarrise, a freshman in the university
 
@@ -47,7 +47,7 @@ Online study also gives much freedom for students in the personal arrangement. F
 
 Online learning also posed challenges to students. The most prominent one was the poor engagement. Due to the pandemic, teaching was shifted to online, which resulting in less interaction. The fundamental reasons were that most students choose to turn off their camera and keep quiet in the breakout room discussion. As pointed out by the interviewees, Katrina and Jasmine stated that it was embarrassing when no one talked during the group discussion. Siri even regarded it as a terrible experience because there were few opportunities to share ideas, and he could only listen to the teacher as a recipient. Moreover, Jasmine also mentioned that some tutors did not show their faces, making her feel that she was studying by herself.
 
-> "It was really bad and awful when nobody shows their faces”. — Jasmine
+<p class="note note-info">"It was really bad and awful when nobody shows their faces”. — Jasmine</p>
 
 Additionally, the relatively relaxed atmosphere of online learning would encourage laziness, as Katrina and Jasmine regarded in their interviews. Jasmine would always fall behind her schedule because she thought she could study whenever she wanted. Hence, the weakened learning atmosphere lead to low effectiveness in studies during the pandemic.
 
@@ -66,23 +66,25 @@ Table 3 shows the key findings in social life during the pandemic. Although the 
 ### 3.2.1 University activities and other events
 
 Due to the lockdown, it was hard for the interviewees to visit friends or participate in outdoor activities. As they reported, the most common relaxation activity was cooking at home. Since the low attraction of the University’s online activities, they were not willing to engage. As pointed out by interviewees, activities like “Doing Yoga Together” lost attraction after becoming online. However, they still would like to join in some online academic activities. Clarisse mentioned that she attended the online Academic English Tutoring, as noted by her:
-> "In this case, I could improve my language skills and engage in a meaningful activity”. — Clarisse
+<p class="note note-primary">"In this case, I could improve my language skills and engage in a meaningful activity”. — Clarisse</p>
 
 ### 3.2.2 Challenges in daily lives during the pandemic
 
 When it came to challenges in daily life,all four interviewees mentioned that their ability to make shopping plans improved during the pandemic. For example, Jasmine stated that she declined the shopping frequency to once a week due to the lockdown, so she had to buy many glossaries every time. Similarly, Clarrise and Katrina, who lived far away from the city, had to make appropriate lists to ensure they would not waste time in shopping. Siri also mentioned the reason why he chose to go shopping once a week:
 
-> “Only by reducing the time in public places could reduce the likelihood of infection during the pandemic.” — Siri
+<p class="note note-primary">“Only by reducing the time in public places could reduce the likelihood of infection during the pandemic.” — Siri</p>
 
 
 Some of our interviewees met other difficulties in their daily life such as public transport when going outside. For example, during the pandemic, the tightened public transportation policy made interviewees reduce the frequency of going outside, decreasing their interaction with others. As Jasmine mentioned:
 
-> "When public transportation is restricted during lockdown, taking a tram has become the only way, leading to increased transportation costs and travel time” — Jasmine
+<p class="note note-primary">"When public transportation is restricted during lockdown, taking a tram has become the only way, leading to increased transportation costs and travel time” — Jasmine</p>
 
 ### 3.2.3 Daily interactions in life
 
 According to the interviewees’ daily interactions during the pandemic, they mainly reached their friends through social media, such as WeChat and Messenger. This deeply reduced their willingness to meet new friends. It was like how Jasmine pointed out: > “all social activities were shifted online, it’s hard to make real new friends when we were not face-to-face”.
-In addition, during the pandemic, the opportunities of interacting with the local people and emerging in the authentic local activities became less, Siri and Jasmine admitted their integration into Australian culture was affected, which failed their expectation to have more experience in another society. However, Katrina and Clarisse still had interactions with locals since they all lived in homestay. Katrina expressed such a wonderful experience as, “it’s lucky for me to live with locals and engage in the local culture, sometimes, my host, hostess and I with my roommates watching movies at home”. For Clarisse, staying in the host family was similar to Katrina, which made her enjoyable at home, as reported by Clarisse,> “I get along well with my hostess and we talked to each other every single day”.## 3.3 Future working plan 
+In addition, during the pandemic, the opportunities of interacting with the local people and emerging in the authentic local activities became less, Siri and Jasmine admitted their integration into Australian culture was affected, which failed their expectation to have more experience in another society. However, Katrina and Clarisse still had interactions with locals since they all lived in homestay. Katrina expressed such a wonderful experience as, “it’s lucky for me to live with locals and engage in the local culture, sometimes, my host, hostess and I with my roommates watching movies at home”. For Clarisse, staying in the host family was similar to Katrina, which made her enjoyable at home, as reported by Clarisse,
+
+<p class="note note-primary">“I get along well with my hostess and we talked to each other every single day”.</p>
 
 ## 3.3 Future working plan
 
@@ -92,7 +94,7 @@ Table 4 shows the key findings in the future working plan. All participants ment
 
 All four interviewees reported that the pandemic had affected their plan of finding an internship or a part-time job in Australia. For example, Katrina claimed that she had lost her part-time job as a volunteer teacher due to the budget cut in the pandemic. For Jasmine, she could hardly find an internship in Australia after the lockdown. Also, Siri mentioned two reasons that he gave up finding internships in Australia: Firstly, he believed that job opportunities have decreased after the pandemic, making it difficult to find relevant positions in Melbourne; Secondly, it was for safety reasons.
 
-> "I’m worried to get affected if I go out to work, and no one would take care of me if I got sick” — Siri
+<p class="note note-primary">"I’m worried to get affected if I go out to work, and no one would take care of me if I got sick” — Siri</p>
 
 Unlike the other three participants, compared to finding a job, Clarisse would focus more on learning since she did not have much language-related background. Accumulating professional knowledge was her primary goal in her early stage of linguistic learning.
 
@@ -100,7 +102,7 @@ Unlike the other three participants, compared to finding a job, Clarisse would f
 
 Talking about preparing for future work, all four participants reported that an essential thing is accumulating professional knowledge. For example, some subjects in the Master of Applied of Linguistics program prepared them well for their future works. Siri and Jasmine believe that subjects like Second Language Acquisition cover relevant professional knowledge and practical skills. As Jasmine claimed:
 
-> “I can benefit a lot from Second Language Acquisition, and Language Curriculum Design” — Jasmine## 4 Recommendations for students and staff
+<p class="note note-primary">“I can benefit a lot from Second Language Acquisition, and Language Curriculum Design” — Jasmine## 4 Recommendations for students and staff</p>
 
 Most interviewees said that they had obtained the qualification certificate for Teaching English to Speakers of Other Languages (TESOL). Besides the professional certification, improving language-related working experience is also essential. For example, Jasmine and Katrina prefer to find a job in Melbourne to increase their teaching skills. Jasmine plans to use the summer term to work as a teaching assistant in a private education intuition. She believed that having overseas teaching experience will greatly help her find a job in China.
 

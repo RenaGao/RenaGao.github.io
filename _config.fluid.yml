@@ -307,30 +307,29 @@ navbar:
     - {
         key: "Opinion Piece", link: "#",
         icon: "iconfont icon-comment",
-          submenu: [
+        submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/14/Introduction-and-reflection-on-opinion-piece/' },
-          { key: 'Main Article', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'Main Article', link: '2021/05/15/opinion-piece/' },
         ]
       }
     - {
         key: "Job Set", link: "#",
         icon: "iconfont icon-addrcard",
-          submenu: [
+        submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' },
-          { key: 'Cover Letter', link: '2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
-          { key: 'Curriculum Vitae', link: '2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
-          { key: 'Response', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'Cover Letter', link: '2021/05/18/cover-letter/' },
+          { key: 'Curriculum Vitae', link: '2021/05/18/cv/' },
+          { key: 'Response', link: '2021/05/20/response/' },
          ]
       }
     - {
         key: "Interview Report", link: "#",
         icon: "iconfont icon-books",
-          submenu: [
+        submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
-          { key: 'Interview Report', link: '2021/05/15/Opinion_Piece/' },
+          { key: 'Interview Report', link: '2021/05/20/interview-report/' },
          ]
       }
-#     - { key: "Opinion Piece", link: "/2021/05/24/Introduction-and-reflection-on-the-Interview-report/", icon: "iconfont icon-user-fill" }
     # - { key: "archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
     # - { key: "categories", link: "/categories/", icon: "iconfont icon-category-fill" }
     # - { key: "tags", link: "/tags/", icon: "iconfont icon-tags-fill" }
@@ -398,9 +397,9 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
+    Rena
     <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    2021
   '
 
   # 展示网站的 PV、UV 统计数
@@ -566,7 +565,7 @@ post:
   # 在文章开头显示文章更新时间，该时间默认是 md 文件更新时间，可通过 front-matter 中 `updated` 手动指定（和 date 一样格式）
   # Update date is displayed at the beginning of the post. The default date is the update date of the md file, which can be manually specified by `updated` in front-matter (same format as date)
   updated:
-    enable: true
+    enable: false
 
     # 描述文字
     # Descriptive text before date
@@ -868,7 +867,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /assets/images/banner.jpeg
+  banner_img: /assets/images/banner2.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -891,7 +890,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: /assets/images/banner2.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 

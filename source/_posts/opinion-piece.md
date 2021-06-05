@@ -3,10 +3,9 @@ title: Why should you learn a language with smartphone apps?
 date: 2021-05-15 20:54:11
 tags: opinion-piece
 ---
+# Opinion Piece
 
-<!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
-
-<img src="/assets/images/op1.png" width="600" height="300" />
+<img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" />
 
 
 Want to learn a new language but don’t have enough time? Always feel painful when stat to learn a new language? Smartphone [language learning applications](https://www.lingualift.com/blog/best-language-learning-apps/) or apps create a fun way for language learners. 
@@ -40,12 +39,13 @@ Language learning apps can make language learners fulfilled after finishing dail
 
 
 <div style="width: 500px;">
-        <img src="/assets/images/op3.png" align="left" width="200" height="300"><br />
-    </div>
-    <p>As an <a href="https://trainingindustry.com/glossary/informal-learning/">informal learning</a > activity, learning through smartphone apps is interesting.</p>
-    <p>Language learning apps are different from <a href="https://www.learnupon.com/blog/formal-and-informal-learning/">formal learning</a >, such as <a href="https://www.jstor.org/stable/41948666?seq=1">in-class teaching and learning</a >, or <a href="https://www.indeed.com/career-advice/career-development/what-is-vocational-training">vocational training</a > on language with planned sessions. 
-This kind of learning enables language learners to be exposed to a new language with high frequency in daily life. The daily task, such as remembering vocabulary and <a href="https://www.teacherspayteachers.com/Browse/Search:sentences%20matching">sentence matching</a >, would consume no more than a half-hour, usually 15 to 2.</p>
+    <img src="/assets/images/op3.png" align="left" width="200" height="300" style="padding: 0; margin-right:20px"><br />
 </div>
+
+As an [informal learning](https://trainingindustry.com/glossary/informal-learning/) activity, learning through smartphone apps is interesting.
+
+Language learning apps are different from [formal learning](https://www.learnupon.com/blog/formal-and-informal-learning/), such as [in-class teaching and learning](https://www.jstor.org/stable/41948666?seq=1), or [vocational training](https://www.indeed.com/career-advice/career-development/what-is-vocational-training) on language with planned sessions.
+This kind of learning enables language learners to be exposed to a new language with high frequency in daily life. The daily task, such as remembering vocabulary and [sentence matching](https://www.teacherspayteachers.com/Browse/Search:sentences%20matching), would consume no more than a half-hour, usually 15 to 2.
 
 This pattern encourages learners to dive into language learning every day. Since the chunks of time needed are so small, it can be done in the coffee queue, allowing the users to learn without sacrificing other things in their lives. It can help you understand new words and some basic constructions, but it isn’t going to push you to leap into a ‘conversation’ in a new language.
 
