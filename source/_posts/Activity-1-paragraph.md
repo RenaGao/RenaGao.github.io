@@ -1,5 +1,5 @@
 ---
-title: Activity 1 paragraph
+title: A glance through my window
 date: 2021-06-05 01:23:24
 tags: 
 ---
@@ -16,7 +16,7 @@ This is a practice writing piece during the second seminar of Professional Liter
 
 ## Reflection on this short piece:
 
-- what there anything you learnt from doing this activity?
+- What there anything you learnt from doing this activity?
 - What did you find challenging about it/what easy?
 - What sort of language did you use?
 
