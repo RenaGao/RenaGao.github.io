@@ -1,5 +1,5 @@
 ---
-title: Response to Graduate Attributes: PhD Supervision
+title: Response to Graduate Attributes
 date: 2021-05-20 01:23:24
 tags: 
 ---
