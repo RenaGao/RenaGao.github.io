@@ -33,7 +33,7 @@ Based on the interview data and analysis, four interviewers concluded the impact
 
 The key findings in studying experience are shown in Table 2. Although the subject delivery became online due to the pandemic, the university still provided high-quality teaching content. However, students’ challenges as the lack of face-to-face interaction led to low engagement and an inadequate learning atmosphere. Communication with teachers and peers could only be carried out via emails or social applications, decreasing communicative effectiveness.
 
-- 3.1.1 Advantages of online learning
+### 3.1.1 Advantages of online learning
 
 Though subjects were all delivered online due to the pandemic, most interviewees agreed that the overall teaching quality had been guaranteed. Clarisse said that online teaching could provide sufficient knowledge from subject content and homework assessments. Jasmine also put it since the content of the Applied Linguistics master program was theoretical, online learning did not impact the teaching quality.
 
@@ -43,7 +43,7 @@ In addition, Siri and Katrina pointed out another advantage of online study – 
 
 Online study also gives much freedom for students in the personal arrangement. For Katrina and Clarisse, who lived far away from the campus, the online studying saved much time on transportation, as said by Katrina “I didn’t need to get up early for class”. Moreover, the less-constrained online studying provided a transitional period for Clarrise, a freshman in the university
 
-- 3.1.2 Challenges of online learning
+### 3.1.2 Challenges of online learning
 
 Online learning also posed challenges to students. The most prominent one was the poor engagement. Due to the pandemic, teaching was shifted to online, which resulting in less interaction. The fundamental reasons were that most students choose to turn off their camera and keep quiet in the breakout room discussion. As pointed out by the interviewees, Katrina and Jasmine stated that it was embarrassing when no one talked during the group discussion. Siri even regarded it as a terrible experience because there were few opportunities to share ideas, and he could only listen to the teacher as a recipient. Moreover, Jasmine also mentioned that some tutors did not show their faces, making her feel that she was studying by herself.
 
@@ -51,7 +51,7 @@ Online learning also posed challenges to students. The most prominent one was th
 
 Additionally, the relatively relaxed atmosphere of online learning would encourage laziness, as Katrina and Jasmine regarded in their interviews. Jasmine would always fall behind her schedule because she thought she could study whenever she wanted. Hence, the weakened learning atmosphere lead to low effectiveness in studies during the pandemic.
 
-- 3.1.3 Communication with teachers and classmates
+### 3.1.3 Communication with teachers and classmates
 
 Apart from the in-class discussion, student-and-student communication mainly took place in completing group assignments. To better collaborate, all interviewees would utilize social media, such as Facebook, Wechat and Messenger, to collaborate with other group members. Siri also described how his group worked collaboratively through Google Doc, which functioned as a pool to post thoughts and receive feedback from others.
 
@@ -63,12 +63,12 @@ Teacher-and-student communication mainly depended on emails. Although most inter
 
 Table 3 shows the key findings in social life during the pandemic. Although the University’s online activities were not attractive, the interviewees were still willing to attend some online academic activities. For challenges in daily lives, international students faced difficulties in buying living resources due to the lockdown. Also, the low engagement and security issue made them feel anxious to go out and make new friends.
 
-- University activities and other events
+### 3.2.1 University activities and other events
 
 Due to the lockdown, it was hard for the interviewees to visit friends or participate in outdoor activities. As they reported, the most common relaxation activity was cooking at home. Since the low attraction of the University’s online activities, they were not willing to engage. As pointed out by interviewees, activities like “Doing Yoga Together” lost attraction after becoming online. However, they still would like to join in some online academic activities. Clarisse mentioned that she attended the online Academic English Tutoring, as noted by her:
 > "In this case, I could improve my language skills and engage in a meaningful activity”. — Clarisse
 
-- Challenges in daily lives during the pandemic
+### 3.2.2 Challenges in daily lives during the pandemic
 
 When it came to challenges in daily life,all four interviewees mentioned that their ability to make shopping plans improved during the pandemic. For example, Jasmine stated that she declined the shopping frequency to once a week due to the lockdown, so she had to buy many glossaries every time. Similarly, Clarrise and Katrina, who lived far away from the city, had to make appropriate lists to ensure they would not waste time in shopping. Siri also mentioned the reason why he chose to go shopping once a week:
 
@@ -79,7 +79,7 @@ Some of our interviewees met other difficulties in their daily life such as publ
 
 > "When public transportation is restricted during lockdown, taking a tram has become the only way, leading to increased transportation costs and travel time” — Jasmine
 
-- Daily interactions in life
+### 3.2.3 Daily interactions in life
 
 According to the interviewees’ daily interactions during the pandemic, they mainly reached their friends through social media, such as WeChat and Messenger. This deeply reduced their willingness to meet new friends. It was like how Jasmine pointed out: > “all social activities were shifted online, it’s hard to make real new friends when we were not face-to-face”.
 In addition, during the pandemic, the opportunities of interacting with the local people and emerging in the authentic local activities became less, Siri and Jasmine admitted their integration into Australian culture was affected, which failed their expectation to have more experience in another society. However, Katrina and Clarisse still had interactions with locals since they all lived in homestay. Katrina expressed such a wonderful experience as, “it’s lucky for me to live with locals and engage in the local culture, sometimes, my host, hostess and I with my roommates watching movies at home”. For Clarisse, staying in the host family was similar to Katrina, which made her enjoyable at home, as reported by Clarisse,> “I get along well with my hostess and we talked to each other every single day”.## 3.3 Future working plan 
@@ -88,7 +88,7 @@ In addition, during the pandemic, the opportunities of interacting with the loca
 
 Table 4 shows the key findings in the future working plan. All participants mentioned that finding a part-time job or an internship was extremely hard because the pandemic caused fewer employments in the language-related areas. Therefore, they mainly focus on professional knowledge and job certifications for their future work preparation.
 
-- 3.3.1 Job opportunities in Australia
+### 3.3.1 Job opportunities in Australia
 
 All four interviewees reported that the pandemic had affected their plan of finding an internship or a part-time job in Australia. For example, Katrina claimed that she had lost her part-time job as a volunteer teacher due to the budget cut in the pandemic. For Jasmine, she could hardly find an internship in Australia after the lockdown. Also, Siri mentioned two reasons that he gave up finding internships in Australia: Firstly, he believed that job opportunities have decreased after the pandemic, making it difficult to find relevant positions in Melbourne; Secondly, it was for safety reasons.
 
@@ -96,7 +96,7 @@ All four interviewees reported that the pandemic had affected their plan of find
 
 Unlike the other three participants, compared to finding a job, Clarisse would focus more on learning since she did not have much language-related background. Accumulating professional knowledge was her primary goal in her early stage of linguistic learning.
 
-- 3.3.2 Preparation for future work
+### 3.3.2 Preparation for future work
 
 Talking about preparing for future work, all four participants reported that an essential thing is accumulating professional knowledge. For example, some subjects in the Master of Applied of Linguistics program prepared them well for their future works. Siri and Jasmine believe that subjects like Second Language Acquisition cover relevant professional knowledge and practical skills. As Jasmine claimed:
 
@@ -119,7 +119,7 @@ Finally, participants recognized that some subjects in the master program are us
 
 Based on previous findings and reflections from the four interviewers, the suggestions for further students in the School of Language and Linguistics are listed as following:
 
-4.2.1 Recommendations for students
+### 4.2.1 Recommendations for students
 
 For studying:
 - preview and familiarize with the teaching content before the lecture 
@@ -136,7 +136,7 @@ For future work plan:
 and job-related skills)
 - try to find a part-time job or an internship in language-related areas
 
-4.2.2 Recommendations for staff
+#### 4.2.2 Recommendations for staff
 - turn on the cameras when teaching in Zoom sessions
 - improve the opportunities of communication and engagement (e.g.,organize more breakout
 room sessions) during teaching
@@ -152,9 +152,9 @@ This interview report presents the impact of the pandemic on international stude
 
 ## Reference
 
-Department of Education, Skills and Employment. (2020). Student visa holders in and outside Australia in 2020. https://internationaleducation.gov.au/research/Research-Snapshots/Documents/RS_VisaHolders March2020.pdf
+Department of Education, Skills and Employment. (2020). Student visa holders in and outside Australia in 2020. https://internationaleducation.gov.au/research/Research-Snapshots/Documents/RS_VisaHoldersMarch2020.pdf
 
-Reserve Bank of Australia. (2021). The COVID-19 Outbreak and Australia’s Education and Tourism Exports. https://www.rba.gov.au/publications/bulletin/2020/dec/the-covid-19-outbreak-and-australias-educ ation-and-tourism-exports.html
+Reserve Bank of Australia. (2021). The COVID-19 Outbreak and Australia’s Education and Tourism Exports. https://www.rba.gov.au/publications/bulletin/2020/dec/the-covid-19-outbreak-and-australias-education-and-tourism-exports.html
 
 
 
