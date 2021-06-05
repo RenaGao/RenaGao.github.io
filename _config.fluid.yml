@@ -304,9 +304,18 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
-    - { key: "Job Set", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "Opinion Piece", link: "/categories/", icon: "iconfont icon-category-fill" }
-    - { key: "Report", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - {
+        key: "Papers", link: "#",
+        icon: "iconfont icon-book",
+          submenu: [
+          { key: 'Activity Paragraph 1', link: '/2021/06/05/Activity-1-paragraph/' },
+          { key: 'Interview Report', link: '/2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
+        ]
+      }
+    # - { key: "Interview Report", link: "/2021/05/24/Introduction-and-reflection-on-the-Interview-report/", icon: "iconfont icon-user-fill" }
+    # - { key: "archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    # - { key: "categories", link: "/categories/", icon: "iconfont icon-category-fill" }
+    # - { key: "tags", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
@@ -780,6 +789,12 @@ archive:
   banner_mask_alpha: 0.3
   subtitle:
 
+jobset:
+  banner_img: assets/images/job.jpeg
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  subtitle:
+
 
 #---------------------------
 # 分类页
@@ -835,7 +850,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: assets/images/banner.jpeg
+  banner_img: /assets/images/banner.jpeg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
