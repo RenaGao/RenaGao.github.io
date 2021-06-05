@@ -316,7 +316,7 @@ navbar:
         key: "Job Set", link: "#",
         icon: "iconfont icon-addrcard",
           submenu: [
-          { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' }
+          { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' },
           { key: 'Cover Letter', link: '2021/05/15/Opinion_Piece/' },
           { key: 'CV', link: '2021/05/15/Opinion_Piece/' },
           { key: 'Response', link: '2021/05/15/Opinion_Piece/'}
