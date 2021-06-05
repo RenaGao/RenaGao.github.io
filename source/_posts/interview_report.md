@@ -1,11 +1,9 @@
 ---
-title: How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguisticsdate: 2021-06-03 15:20:20
-tags: interview report 
+title: How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
+date: 2021-06-03 15:20:20
+tags: interview
 ---
 
-<!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
-
-<img src="/assets/images/article-intro.jpeg" width="748" height="440" />
 
 ## Executive Summary
 This report investigates the studying status and life experiences of current students of the University of Melbourne during the COVID-19 pandemic in 2020, namely the School of Language and Linguistics. This interview report focuses on how the pandemic impacted the life of international students who were resident in Melbourne during their studying abroad life. It aims to discover the challenges in online learning, social life and working plan and provide recommendations for international students and staff in the School of Languages and Linguistics.
