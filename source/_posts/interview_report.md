@@ -148,7 +148,7 @@ should emphasize more on teaching English as a second language)
 
 ## 5 Conclusions and outlook
 
-This interview report presents the impact of the pandemic on international students in Australia. It reveals various challenges that international students encountered, including studying, social life and working plan. Based on the interviews, practical recommendations are provided for students and staff in the School of Languages and Linguistics. However, the sample size of the current study is limited for proposing general recommendations. Moreover, all interviews were online due to the influence of post-pandemic, which may influence the authenticity of this study. In conclusion, this report serves as a typical case for international students to help them improve their studying abroad life during the post-pandemic stage in Australia.## Reference: 
+This interview report presents the impact of the pandemic on international students in Australia. It reveals various challenges that international students encountered, including studying, social life and working plan. Based on the interviews, practical recommendations are provided for students and staff in the School of Languages and Linguistics. However, the sample size of the current study is limited for proposing general recommendations. Moreover, all interviews were online due to the influence of post-pandemic, which may influence the authenticity of this study. In conclusion, this report serves as a typical case for international students to help them improve their studying abroad life during the post-pandemic stage in Australia.
 
 ## Reference
 
