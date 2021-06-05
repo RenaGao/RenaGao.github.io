@@ -6,7 +6,7 @@ tags: opinion-piece
 
 <!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
 
-<img src="/assets/images/activity-1-paragraph-image1.jpeg" width="286" height="440" />
+<img src="/assets/images/op1.png" width="800" height="400" />
 
 Want to learn a new language but don’t have enough time? Always feel painful when stat to learn a new language? Smartphone [language learning applications](https://www.lingualift.com/blog/best-language-learning-apps/) or apps create a fun way for language learners. 
 
@@ -18,6 +18,8 @@ As a way of [online language learning](https://www.education.vic.gov.au/language
 
 
 ## Motivation is key
+
+<img src="/assets/images/op2.png" width="760" height="500" />
 
 These language learning apps are all free and communicative to attract new learner’s interest. Some apps have [gamification](https://www.trueeducationpartnerships.com/schools/gamification-in-education/) and [communication](https://www.whatiselt.com/single-post/2018/08/23/What-is-the-Communicative-Approach) functions to inspire learners to learn a new language in a [virtual community](https://www.brendansailing.org/programs.html). 
 
@@ -34,10 +36,17 @@ Language learning apps can make language learners fulfilled after finishing dail
 
 ## Informal learning feels more relaxation
 
-As an [informal learning](https://trainingindustry.com/glossary/informal-learning/) activity, learning through smartphone apps is interesting.
 
-Language learning apps are different from [formal learning](https://www.learnupon.com/blog/formal-and-informal-learning/), such as [in-class teaching and learning](https://www.jstor.org/stable/41948666?seq=1), or [vocational training](https://www.indeed.com/career-advice/career-development/what-is-vocational-training) on language with planned sessions. 
-This kind of learning enables language learners to be exposed to a new language with high frequency in daily life. The daily task, such as remembering vocabulary and [sentence matching](https://www.teacherspayteachers.com/Browse/Search:sentences%20matching), would consume no more than a half-hour, usually 15 to 20 minutes. 
+
+<div style="width: 500px;">
+        <img src="/assets/images/op3.png" align="left" width="350" height="550"><br />
+        Tom Guilmard. 
+        Learning a language on smartphones. 
+    </div>
+    <p>As an <a href="https://trainingindustry.com/glossary/informal-learning/">informal learning</a > activity, learning through smartphone apps is interesting.</p>
+    <p>Language learning apps are different from <a href="https://www.learnupon.com/blog/formal-and-informal-learning/">formal learning</a >, such as <a href="https://www.jstor.org/stable/41948666?seq=1">in-class teaching and learning</a >, or <a href="https://www.indeed.com/career-advice/career-development/what-is-vocational-training">vocational training</a > on language with planned sessions. 
+This kind of learning enables language learners to be exposed to a new language with high frequency in daily life. The daily task, such as remembering vocabulary and <a href="https://www.teacherspayteachers.com/Browse/Search:sentences%20matching">sentence matching</a >, would consume no more than a half-hour, usually 15 to 2.</p>
+</div>
 
 This pattern encourages learners to dive into language learning every day. Since the chunks of time needed are so small, it can be done in the coffee queue, allowing the users to learn without sacrificing other things in their lives. It can help you understand new words and some basic constructions, but it isn’t going to push you to leap into a ‘conversation’ in a new language.
 
