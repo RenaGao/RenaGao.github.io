@@ -6,7 +6,7 @@ tags:
 
 <!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
 
-<img src="/assets/images/article-intro.jpeg" width="286" height="440" />
+<img src="/assets/images/article-intro.jpeg" width="748" height="440" />
 
 ## Introduction of the interview report:
 
