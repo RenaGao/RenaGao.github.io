@@ -1,11 +1,9 @@
 ---
 title: Cover Letter
 date: 2021-05-18 15:45:12
-tags: job set 
+tags: job_set 
 ---
 ## Cover Letter:
-
-COVER LETTER: Supervisor
 
 Dear Associate Professor Carsten Roever,
 
