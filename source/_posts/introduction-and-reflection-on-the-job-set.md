@@ -1,5 +1,5 @@
 ---
-title: Introduction & Reflection on the job set
+title: Introduction and Reflection on the job set
 date: 2021-05-24 01:43:08
 tags: job-set
 ---
