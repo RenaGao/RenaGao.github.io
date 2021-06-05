@@ -1,7 +1,7 @@
 ---
 title: Interview report
 date: 2021-05-24 12:23:24
-tags: 
+tags: interview
 ---
 
 <!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
