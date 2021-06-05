@@ -3,12 +3,16 @@ title: A glance through my window
 date: 2021-05-05 01:23:24
 tags: 
 ---
-This is a practice writing piece during the second seminar of Professional Literacies, about the view outside the apartment window. It is required that we need to provide a detailed description of the scene.
+
 
 
 <!-- ![](/images/activity-1-paragraph-image1.jpeg) -->
 
-<img src="/assets/images/activity-1-paragraph-image1.jpeg" width="286" height="440" />
+
+<div style="width:500px;">
+            <img src="/assets/images/activity-1-paragraph-image1.jpeg" align="left" width="286" height="440" vspace="5" />
+            <p> This is a practice writing piece during the second seminar of Professional Literacies, about the view outside the apartment window. It is required that we need to provide a detailed description of the scene.</p>
+</div>
 
 ## The world through my window 
 
