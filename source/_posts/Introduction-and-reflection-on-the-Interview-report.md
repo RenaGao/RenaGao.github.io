@@ -24,7 +24,9 @@ Before conducting this assignment, I have interview experience when I was the Re
 > **_NOTE:_** How COVID-19 Pandemic Affect Studying Abroad in Australian University: A Case of Master Students in School of Language and Linguistics
 
 - Make everyone clear about their role
+
 To be honest, this is the most challenging part for me since the other three group members don’t have any interview or analysis experience, so it makes all members understanding their role in the first place is quite difficult. So, I use several times to show them the difference between interview and conversation and how to analyse interview discourse from an objective perspective. Besides, we also marked everyone’s part in a Google Doc so that the whole group could be much clearer about the whole process and progress of the report. Even four group members mainly worked remotely due to the post-pandemic reason, but the weekly meeting went go pretty smooth.
 
 - Time management is everything
+
 When the group are working on the interview and the report, there are other assignments due at the same time, and after everyone finalized their part, I would look through all the report and correct some typos and grammar mistakes. Thus, it is essential to allocate the duty in a reasonable schedule. Through this assignment, I learned how to collaborate writing and interview others professionally, including all the processes from designing interview questions to finally doing the transcript.
