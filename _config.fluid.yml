@@ -313,14 +313,12 @@ navbar:
         ]
       }
     - {
-        key: "Job Set", link: "#",
-        icon: "iconfont icon-addrcard",
+        key: "Report", link: "#",
+        icon: "iconfont icon-books",
           submenu: [
-          { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' },
-          { key: 'Cover Letter', link: '2021/05/15/Opinion_Piece/' },
-          { key: 'Curriculum Vitae', link: '2021/05/15/Opinion_Piece/' },
-          { key: 'Response', link: '2021/05/15/Opinion_Piece/'}
-        ]
+          { key: 'Introduction & Reflection', link: '2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
+          { key: 'Interview Report', link: '2021/05/15/Opinion_Piece/' },
+         ]
       }
 #     - { key: "Opinion Piece", link: "/2021/05/24/Introduction-and-reflection-on-the-Interview-report/", icon: "iconfont icon-user-fill" }
     # - { key: "archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
