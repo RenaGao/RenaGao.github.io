@@ -14,6 +14,6 @@ Here is my CV
       <param name="_ExtentX" value="20108"> 
       <param name="_ExtentY" value="10866"> 
       <param name="_StockProps" value="0"> 
-      <param name="SRC" value="/assets/files/Wei-Gao-PL-PhD-CV.pdf"> 
-<embed src="/assets/files/Wei-Gao-PL-PhD-CV.pdf" width="100%" height="800" href="/assets/files/Wei-Gao-PL-PhD-CV.pdf"></embed><!--FF--> 
+      <param name="SRC" value="/assets/files/CV-converted.pdf"> 
+<embed src="/assets/files/Wei-Gao-PL-PhD-CV.pdf" width="100%" height="800" href="/assets/files/CV-converted.pdf"></embed><!--FF--> 
 </object>
