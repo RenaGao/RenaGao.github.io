@@ -1,6 +1,7 @@
 ---
 title: Introduction and Reflection on the job set
 date: 2021-05-24 01:43:08
+banner_img: /assets/images/job.jpeg
 tags: job-set
 ---
 
