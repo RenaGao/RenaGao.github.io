@@ -1,8 +1,9 @@
 ---
-title: How the COVID-19 Pandemic Affects Studying Abroad
+title: Interview Report
 date: 2021-05-20 15:20:20
 tags: interview
 ---
+# How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
 
 ## Executive Summary
 This report investigates the studying status and life experiences of current students of the University of Melbourne during the COVID-19 pandemic in 2020, namely the School of Language and Linguistics. This interview report focuses on how the pandemic impacted the life of international students who were resident in Melbourne during their studying abroad life. It aims to discover the challenges in online learning, social life and working plan and provide recommendations for international students and staff in the School of Languages and Linguistics.
@@ -39,7 +40,7 @@ Though subjects were all delivered online due to the pandemic, most interviewees
 
 In addition, Siri and Katrina pointed out another advantage of online study – recordings. The recordings provided opportunities for students to review the online lectures or seminars repeatedly, thus helped them better comprehend teaching content. Siri mentioned that when he could not follow the teachers in the live Zoom session, recordings helped a lot. Besides, Katrina recalled when she was confused about certain points, she told us:
 
-<p class="note note-info">"I would watched the recordings again”. — Katrina</p>
+<p class="note note-primary">"I would watched the recordings again”. — Katrina</p>
 
 Online study also gives much freedom for students in the personal arrangement. For Katrina and Clarisse, who lived far away from the campus, the online studying saved much time on transportation, as said by Katrina “I didn’t need to get up early for class”. Moreover, the less-constrained online studying provided a transitional period for Clarrise, a freshman in the university
 
@@ -47,7 +48,7 @@ Online study also gives much freedom for students in the personal arrangement. F
 
 Online learning also posed challenges to students. The most prominent one was the poor engagement. Due to the pandemic, teaching was shifted to online, which resulting in less interaction. The fundamental reasons were that most students choose to turn off their camera and keep quiet in the breakout room discussion. As pointed out by the interviewees, Katrina and Jasmine stated that it was embarrassing when no one talked during the group discussion. Siri even regarded it as a terrible experience because there were few opportunities to share ideas, and he could only listen to the teacher as a recipient. Moreover, Jasmine also mentioned that some tutors did not show their faces, making her feel that she was studying by herself.
 
-<p class="note note-info">"It was really bad and awful when nobody shows their faces”. — Jasmine</p>
+<p class="note note-primary">"It was really bad and awful when nobody shows their faces”. — Jasmine</p>
 
 Additionally, the relatively relaxed atmosphere of online learning would encourage laziness, as Katrina and Jasmine regarded in their interviews. Jasmine would always fall behind her schedule because she thought she could study whenever she wanted. Hence, the weakened learning atmosphere lead to low effectiveness in studies during the pandemic.
 
@@ -102,7 +103,7 @@ Unlike the other three participants, compared to finding a job, Clarisse would f
 
 Talking about preparing for future work, all four participants reported that an essential thing is accumulating professional knowledge. For example, some subjects in the Master of Applied of Linguistics program prepared them well for their future works. Siri and Jasmine believe that subjects like Second Language Acquisition cover relevant professional knowledge and practical skills. As Jasmine claimed:
 
-<p class="note note-primary">“I can benefit a lot from Second Language Acquisition, and Language Curriculum Design” — Jasmine## 4 Recommendations for students and staff</p>
+<p class="note note-primary">“I can benefit a lot from Second Language Acquisition, and Language Curriculum Design” — Jasmine</p>
 
 Most interviewees said that they had obtained the qualification certificate for Teaching English to Speakers of Other Languages (TESOL). Besides the professional certification, improving language-related working experience is also essential. For example, Jasmine and Katrina prefer to find a job in Melbourne to increase their teaching skills. Jasmine plans to use the summer term to work as a teaching assistant in a private education intuition. She believed that having overseas teaching experience will greatly help her find a job in China.
 
