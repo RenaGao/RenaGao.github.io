@@ -4,9 +4,9 @@ date: 2021-05-15 20:54:11
 tags: opinion-piece
 ---
 # Opinion Piece
-
+<div align=center>
 <img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" />
-
+</div>
 
 Want to learn a new language but don’t have enough time? Always feel painful when stat to learn a new language? Smartphone [language learning applications](https://www.lingualift.com/blog/best-language-learning-apps/) or apps create a fun way for language learners. 
 
@@ -19,7 +19,9 @@ As a way of [online language learning](https://www.education.vic.gov.au/language
 
 ## Motivation is key
 
-<img src="/assets/images/op2.png" width="600" height="300" />
+<div align=center>
+<img src="/assets/images/op2.png" width="600" height="350" />
+</div>
 
 These language learning apps are all free and communicative to attract new learner’s interest. Some apps have [gamification](https://www.trueeducationpartnerships.com/schools/gamification-in-education/) and [communication](https://www.whatiselt.com/single-post/2018/08/23/What-is-the-Communicative-Approach) functions to inspire learners to learn a new language in a [virtual community](https://www.brendansailing.org/programs.html). 
 
