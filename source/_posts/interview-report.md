@@ -23,6 +23,58 @@ This report contains several sections. First, the methodology will be presented,
 
 ## 2 Methodology 
 ## 2.1 Partcipants 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Name</span></th>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Major</span></th>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Speciali-</span><br><span style="color:#000;background-color:transparent">zation </span></th>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none">Previous </span><br><span style="font-style:normal;text-decoration:none">Major</span></th>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Learning </span><br><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Stage </span></th>
+    <th class="tg-7btt"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Working </span><br><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">E</span><span style="color:#000;background-color:transparent">xperience </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Katrina</span></td>
+    <td class="tg-0pky" rowspan="4"><br><br><br><br><br><span style="color:#000;background-color:transparent">Master of </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Linguistics </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TESOL </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(200 </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">points)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Double Major: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Horticulture+</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Business English</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Semester</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Volunteer English teacher </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">during studying abroad</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Siri </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(200 points) </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Computer Science </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Semester </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Two years of being an English </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">teacher in a high school in China</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Clarisse</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TESOL</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(150 points)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Teaching Chinese </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">as a foreign language</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Second </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Semester</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5 years of Marketing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Jasmine</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(200 points) </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">History</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Semester </span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Interned for one semester as a </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">history teacher in high school</span></td>
+  </tr>
+</tbody>
+</table>
 The information of participants shows in Table 1. Four interviewees are international students from China, including three female and one male. They all came to Melbourne before the breakout of COVID-19 and are currently studying in the Master of Applied Linguistics program at the University of Melbourne, with one semester left before graduation. In addition, the four participants all have working experience previously.
 
 ## 2.2 Method 
