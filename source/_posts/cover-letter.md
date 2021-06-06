@@ -1,5 +1,6 @@
 ---
 title: Cover Letter
+banner_img: /assets/images/job.jpeg
 date: 2021-05-18 15:45:12
 tags: job_set 
 ---
