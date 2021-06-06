@@ -510,7 +510,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: assets/images/banner1.jpeg
+  banner_img: assets/images/banner.jpeg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
