@@ -1,9 +1,9 @@
 ---
-title: Why should you learn a language with smartphone apps?
+title: Opinion Piece
 date: 2021-05-15 20:54:11
-tags: opinion-piece
+tags: opinion piece
 ---
-# Opinion Piece
+# Why should you learn a language with smartphone apps?
 <div align=center>
 <img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" />
 </div>
