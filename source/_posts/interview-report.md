@@ -3,6 +3,7 @@ title: Interview Report
 banner_img: assets/images/report.jpeg
 date: 2021-05-20 15:20:20
 tags: interview
+index_img: assets/images/interviewspic2.jpeg
 ---
 # How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
 
