@@ -38,3 +38,17 @@ During my past research experience, I have collaborated with oversea researchers
 
 Requirement URL:
 https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-arts/entry-requirements/
+
+---
+
+<div class="post-prevnext">
+    <article class="post-prev col-6">
+        <a href="/2021/05/18/cv/" style="text-decoration: none;">
+            <i class="iconfont icon-arrowleft"></i>
+            <span class="hidden-mobile">Curriculum Vitae</span>
+            <span class="visible-mobile">Previous</span>
+        </a>
+    </article>
+    <article class="post-next col-6">
+    </article>
+</div>

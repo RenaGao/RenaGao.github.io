@@ -18,3 +18,22 @@ I've learned that you have published widely in these research areas, especially 
 Thank you for your time reading this email and I look forward to hearing from you.
 
 Kind regards, Wei Gao
+
+---
+
+<div class="post-prevnext">
+    <article class="post-prev col-6">
+        <a href="/2021/05/24/introduction-and-reflection-on-the-job-set/" style="text-decoration: none;">
+            <i class="iconfont icon-arrowleft"></i>
+            <span class="hidden-mobile">Introduction & Reflection</span>
+            <span class="visible-mobile">Previous</span>
+        </a>
+    </article>
+    <article class="post-next col-6">
+        <a href="/2021/05/18/cv/" style="text-decoration: none;">
+            <span class="hidden-mobile">Curriculum Vitae</span>
+            <span class="visible-mobile">Next</span>
+            <i class="iconfont icon-arrowright"></i>
+        </a>
+    </article>
+</div>
