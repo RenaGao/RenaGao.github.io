@@ -7,7 +7,10 @@ tags: opinion piece
 ---
 # Why should you learn a language with smartphone apps?
 <div align=center>
-<figure><img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" /><figcaption>https://www.topuniversities.com/student-info/university-news/cant-take-toefl-duolingo-might-offer-alternative </figcaption></figure>
+<figure>
+    <img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" />
+    <figcaption style="color: #6C757D;font-size: 10px;">https://www.topuniversities.com/student-info/university-news/cant-take-toefl-duolingo-might-offer-alternative </figcaption>
+</figure>
 </div>
 
 Want to learn a new language but don’t have enough time? Always feel painful when stat to learn a new language? Smartphone [language learning applications](https://www.lingualift.com/blog/best-language-learning-apps/) or apps create a fun way for language learners. 
