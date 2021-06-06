@@ -11,10 +11,7 @@ This job set is mainly about my personal background and research experience in r
 
 The set includes three parts, a Cover letter, CV and selection criteria respectively. The main purpose of the cover letter is to recommend me to the supervisor who is matching with my research interest and show my highlights in academic research and professional experience. The second part (CV) is mainly about detailed information about me, such as past educational background, publications, professional experience, research outcome and skills. Finally, the main focus of the response to selection criteria is to reflect how I meet each selection criteria in perusing for a PhD study in UniMelb. 
 
-<div>
-    <a href="/assets/files/Wei-Gao-PL-PhD-CV.pdf" download="Wei-Gao-PL-PhD-CV.pdf">Rena’s Job Set👉</a>
-    <a href="/assets/files/Wei-Gao-PL-PhD-CV.pdf" download="Wei-Gao-PL-PhD-CV.pdf" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Download<a/>
-</div>
+<a href="2021/05/18/cover-letter/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Cover Letter<a/> <a href="2021/05/18/cv/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >CV<a/> <a href="2021/05/20/response/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Response to Graduate Attributes<a/>
 
 <!-- more -->
 
