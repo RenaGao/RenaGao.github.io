@@ -14,7 +14,7 @@ This report investigates the impact of the COVID-19 on international students wh
 During the process of completing this assignment, four members in our group collaborative well although we basically depend on online communicate software to update on each other. Before we actually conducting the interview, I settled the topic and focus of this interview, then all the group members brainstormed on the interview questions collaboratively. Then, each of us is responsible for one part in the report and contacted our interviewees respectively.
 During the process of each interview, four group members would all be in the Zoom session and after completing the interview, all members would listen to the recording again and find some interesting points to address in the report. Finally, after drafting the report, we improved the ability of collaborative work, especially in writing and conducting interview.
 
-<a href="2021/05/20/interview-report/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Link to report<a/>
+<a href="/2021/05/20/interview-report/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Link to report<a/>
 
 ## Reflection of the interview report:
 
