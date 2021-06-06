@@ -82,7 +82,7 @@ The information of participants shows in Table 1. Four interviewees are internat
 ## 2.2 Method 
 This research was conducted with semi-structured online interviews via Zoom in English, which lasted about 40 minutes. This interview covered 21 interview questions in four sections: background information, studying experience during the pandemic, social life experience, ex- tracurricular activities, and future working plans. These questions were sent to the interviewees in advance, and in-depth questioning would be employed when necessary during the interview. All interviews are video recorded, and four interviewers would watch the recording to find the common points and individual variance concerning the impact of COVID-19 on international students.
 
-## Findings
+## 3 Findings
 Based on the interview data and analysis, four interviewers concluded the impact of the pandemic on international students from three aspects: studying experience, social activities, and future working plan.
 
 ## 3.1 Studying experience 
@@ -163,7 +163,7 @@ Talking about preparing for future work, all four participants reported that an 
 Most interviewees said that they had obtained the qualification certificate for Teaching English to Speakers of Other Languages (TESOL). Besides the professional certification, improving language-related working experience is also essential. For example, Jasmine and Katrina prefer to find a job in Melbourne to increase their teaching skills. Jasmine plans to use the summer term to work as a teaching assistant in a private education intuition. She believed that having overseas teaching experience will greatly help her find a job in China.
 
 
-## Recommendations for students and staff
+## 4 Recommendations for students and staff
 ## 4.1 Common themes of the interviews
 
 In studying during the pandemic, the interviewees reported the online learning quality is generally ‘good’. For example, the content of most subjects during online learning is still guaranteed since the arrangement and assignment are suitable and attractive for students in this program. Also, remote learning enables students to save time in transportation. In contrast, due to the limited communication between students and teachers and students with other peers, it’s hard to solve some problems in learning in time.
@@ -182,7 +182,8 @@ Based on previous findings and reflections from the four interviewers, the sugge
 For studying:
 - preview and familiarize with the teaching content before the lecture 
 - turn on the camera and engage in discussions and online lecturing
-- make good use of recording and online discussion boards iv) keep good communication with teachers and fellow students
+- make good use of recording and online discussion boards 
+- keep good communication with teachers and fellow students
 
 For social life during the post-pandemic era:
 - expand social life through school activities (e.g.,UMSU activities) 
@@ -195,6 +196,7 @@ and job-related skills)
 - try to find a part-time job or an internship in language-related areas
 
 #### 4.2.2 Recommendations for staff
+
 - turn on the cameras when teaching in Zoom sessions
 - improve the opportunities of communication and engagement (e.g.,organize more breakout
 room sessions) during teaching
