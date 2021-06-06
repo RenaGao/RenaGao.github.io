@@ -305,7 +305,7 @@ navbar:
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - {
-        key: "Opinion Piece", link: "2021/05/15/opinion-piece/",
+        key: "Opinion Piece", link: "/2021/05/15/opinion-piece/",
         icon: "iconfont icon-comment",
         submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/14/Introduction-and-reflection-on-opinion-piece/' },
@@ -313,7 +313,7 @@ navbar:
         ]
       }
     - {
-        key: "Job Set", link: "2021/05/24/introduction-and-reflection-on-the-job-set/",
+        key: "Job Set", link: "/2021/05/24/introduction-and-reflection-on-the-job-set/",
         icon: "iconfont icon-addrcard",
         submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/24/introduction-and-reflection-on-the-job-set/' },
@@ -323,7 +323,7 @@ navbar:
          ]
       }
     - {
-        key: "Interview Report", link: "2021/05/20/interview-report/",
+        key: "Interview Report", link: "/2021/05/20/interview-report/",
         icon: "iconfont icon-books",
         submenu: [
           { key: 'Introduction & Reflection', link: '2021/05/24/Introduction-and-reflection-on-the-Interview-report/' },
