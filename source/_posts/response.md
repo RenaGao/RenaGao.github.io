@@ -3,6 +3,7 @@ title: Response to Graduate Attributes
 banner_img: /assets/images/job.jpeg
 date: 2021-05-20 01:23:24
 tags: 
+index_img: assets/images/responsepic1.png
 ---
 
 # Response to Graduate Attributes: PhD Supervision
