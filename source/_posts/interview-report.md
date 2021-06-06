@@ -48,7 +48,7 @@ This report contains several sections. First, the methodology will be presented,
 <tbody>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Katrina</span></td>
-    <td class="tg-0lax" rowspan="4"><br><br><br><br><br>Master of <br><span style="font-weight:400;font-style:normal;text-decoration:none">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Linguistics </span></td>
+    <td class="tg-0lax" rowspan="4"><br><br><br><br>Master of <br><span style="font-weight:400;font-style:normal;text-decoration:none">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Linguistics </span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">points)</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Double Major: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Horticulture+</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Business English</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester</span></td>
