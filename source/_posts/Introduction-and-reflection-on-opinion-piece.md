@@ -2,7 +2,7 @@
 title: Introduction and Reflection on opinion piece
 date: 2021-05-14 15:45:12
 banner_img: assets/images/op_banner.jpeg
-tags: opinion-piece
+tags: opinion piece
 ---
 ## Introduction of opinion piece:
 
@@ -10,7 +10,7 @@ This opinion piece is about the usage of language learning apps on smartphones a
 
 This opinion piece expresses the subjective opinion from the author instead of an academic argumentation overall. Compared with the voice of an academic paper, this opinion piece is a different genre needing a more comprehensible style and a credible voice. To draft this opinion piece, I read plenty of articles on The Conversations to familiarize the professional style. 
 
-<a href="/2021/05/15/opinion-piece/" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Link to article<a/>
+<a href="/2021/05/15/opinion-piece/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Link to article<a/>
 
 ## Reflection of opinion piece:
 
