@@ -13,6 +13,7 @@ The set includes three parts, a Cover letter, CV and selection criteria respecti
 
 <a href="/2021/05/18/cover-letter/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Cover Letter<a/> <a href="/2021/05/18/cv/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >CV<a/> <a href="/2021/05/20/response/" style="background: #E74C3C;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Response to Graduate Attributes<a/>
 
+<a href="/2021/05/18/cover-letter/" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Cover Letter<a/>  
 <!-- more -->
 
 ## Reflection on the job set:
