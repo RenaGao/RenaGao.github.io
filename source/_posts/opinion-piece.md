@@ -9,7 +9,9 @@ tags: opinion piece
 <div align=center>
 <figure>
     <img src="/assets/images/op1.png" width="600" height="300" style="margin-bottom: 20px;" />
-    <figcaption style="color: #6C757D;font-size: 10px;">https://www.topuniversities.com/student-info/university-news/cant-take-toefl-duolingo-might-offer-alternative </figcaption>
+    <figcaption style="color: #6C757D;font-size: 10px;">
+        https://www.topuniversities.com/student-info/university-news/cant-take-toefl-duolingo-might-offer-alternative
+    </figcaption>
 </figure>
 </div>
 

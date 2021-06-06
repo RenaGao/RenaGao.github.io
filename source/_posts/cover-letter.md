@@ -17,7 +17,8 @@ I've learned that you have published widely in these research areas, especially 
 
 Thank you for your time reading this email and I look forward to hearing from you.
 
-Kind regards, Wei Gao
+Kind regards,
+Wei Gao
 
 ---
 
