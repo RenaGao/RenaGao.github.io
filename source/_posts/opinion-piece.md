@@ -2,7 +2,7 @@
 title: Opinion Piece
 date: 2021-05-15 20:54:11
 banner_img: assets/images/op_banner.jpeg
-index_img: assets/images/op_index.jpeg
+index_img: assets/images/opinionpiecepic1.jpeg
 tags: opinion piece
 ---
 # Why should you learn a language with smartphone apps?
