@@ -3,7 +3,7 @@ title: Cover Letter
 date: 2021-05-18 15:45:12
 tags: job_set 
 ---
-## Cover Letter:
+# Cover Letter
 
 Dear Associate Professor Carsten Roever,
 
