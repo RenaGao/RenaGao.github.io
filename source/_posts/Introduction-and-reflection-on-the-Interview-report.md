@@ -2,10 +2,10 @@
 title: Introduction and Reflection on interview report
 date: 2021-05-24 12:23:24
 banner_img: assets/images/report.jpeg
+index_img: /assets/images/article-intro.jpeg
 tags: interview
 ---
 
-<img src="/assets/images/article-intro.jpeg" width="748" height="440" />
 
 ## Introduction of the interview report:
 
