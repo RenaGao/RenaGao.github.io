@@ -23,6 +23,7 @@ This report contains several sections. First, the methodology will be presented,
 
 ## 2 Methodology 
 ## 2.1 Partcipants 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -46,7 +47,7 @@ This report contains several sections. First, the methodology will be presented,
 <tbody>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Katrina</span></td>
-    <td class="tg-0pky" rowspan="4"><br><br><br><br><br><span style="color:#000;background-color:transparent">Master of </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Linguistics </span></td>
+    <td class="tg-0pky" rowspan="4"><br><br><br><br><span style="color:#000;background-color:transparent">Master of </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Linguistics </span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TESOL </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">(200 </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">points)</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Double Major: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Horticulture+</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Business English</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Semester</span></td>
@@ -75,6 +76,7 @@ This report contains several sections. First, the methodology will be presented,
   </tr>
 </tbody>
 </table>
+
 The information of participants shows in Table 1. Four interviewees are international students from China, including three female and one male. They all came to Melbourne before the breakout of COVID-19 and are currently studying in the Master of Applied Linguistics program at the University of Melbourne, with one semester left before graduation. In addition, the four participants all have working experience previously.
 
 ## 2.2 Method 
