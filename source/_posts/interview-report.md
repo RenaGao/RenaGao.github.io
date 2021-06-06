@@ -1,5 +1,6 @@
 ---
 title: Interview Report
+banner_img: assets/images/report.jpeg
 date: 2021-05-20 15:20:20
 tags: interview
 ---
