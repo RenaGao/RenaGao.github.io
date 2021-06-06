@@ -64,3 +64,21 @@ For new language learners, touching the basic knowledge in a fun way can be help
 Don’t hesitate, pick up your phone, start your new language journey now!  
 
 
+---
+
+<div class="post-prevnext">
+    <article class="post-prev col-6">
+        <a href="/2021/05/18/cover-letter/" style="text-decoration: none;">
+        <i class="iconfont icon-arrowleft"></i>
+        <span class="hidden-mobile">Cover Letter</span>
+        <span class="visible-mobile">Previous</span>
+        </a>
+    </article>
+    <article class="post-next col-6">
+        <a href="/2021/05/14/Introduction-and-reflection-on-opinion-piece/" style="text-decoration: none;">
+        <span class="hidden-mobile">Introduction and Reflection on opinion piece</span>
+        <span class="visible-mobile">Next</span>
+        <i class="iconfont icon-arrowright"></i>
+        </a>
+    </article>
+</div>
