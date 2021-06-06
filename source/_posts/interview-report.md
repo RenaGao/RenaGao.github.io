@@ -88,6 +88,29 @@ Based on the interview data and analysis, four interviewers concluded the impact
 
 ## 3.1 Studying experience 
 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Studying experience </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Advantages of <br>online learning</td>
+    <td>1) the overall teaching quality was guaranteed<br>2) less-constrained time consuming</td>
+  </tr>
+  <tr>
+    <td>Challenges of <br>online learning </td>
+    <td>1) limited interaction and low engagement in the class<br>2) lack of learning atmosphere</td>
+  </tr>
+  <tr>
+    <td>Communication with<br>teachers and classmates</td>
+    <td>1) lack of instant response and feedback<br></td>
+  </tr>
+</tbody>
+</table>
+
 The key findings in studying experience are shown in Table 2. Although the subject delivery became online due to the pandemic, the university still provided high-quality teaching content. However, students’ challenges as the lack of face-to-face interaction led to low engagement and an inadequate learning atmosphere. Communication with teachers and peers could only be carried out via emails or social applications, decreasing communicative effectiveness.
 
 ### 3.1.1 Advantages of online learning
@@ -118,6 +141,28 @@ Teacher-and-student communication mainly depended on emails. Although most inter
 
 ## 3.2 Social life and interaction
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">social life and interaction </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>University activities and<br>other events</td>
+    <td>1) attendances for different categories of university activities<br>2) practical choice for other activities outside the university</td>
+  </tr>
+  <tr>
+    <td>Challenges in daily lives</td>
+    <td><br>1) challenges in buying living resources<br>2) difficulties in daily life during lockdown</td>
+  </tr>
+  <tr>
+    <td>Daily interactions in life</td>
+    <td>1) interactions with friends mostly via social networking<br>2) limited interaction and low engagement in Australian culture</td>
+  </tr>
+</tbody>
+</table>
+
 Table 3 shows the key findings in social life during the pandemic. Although the University’s online activities were not attractive, the interviewees were still willing to attend some online academic activities. For challenges in daily lives, international students faced difficulties in buying living resources due to the lockdown. Also, the low engagement and security issue made them feel anxious to go out and make new friends.
 
 ### 3.2.1 University activities and other events
@@ -145,6 +190,24 @@ In addition, during the pandemic, the opportunities of interacting with the loca
 
 ## 3.3 Future working plan
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Future working plan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Internship in Australia</td>
+    <td>1) not so many suitable positions<br>2) hard to find a suitable internship during the pandemic</td>
+  </tr>
+  <tr>
+    <td>Preparation for future work</td>
+    <td>1) improve professional knowledge<br>2) prepare for a job qualification certificate<br></td>
+  </tr>
+</tbody>
+</table>
+
 Table 4 shows the key findings in the future working plan. All participants mentioned that finding a part-time job or an internship was extremely hard because the pandemic caused fewer employments in the language-related areas. Therefore, they mainly focus on professional knowledge and job certifications for their future work preparation.
 
 ### 3.3.1 Job opportunities in Australia
@@ -165,6 +228,26 @@ Most interviewees said that they had obtained the qualification certificate for 
 
 
 ## 4 Recommendations for students and staff
+
+<table>
+<thead>
+  <tr>
+    <th>Studying<br>experience</th>
+    <th>1) generally good in teaching quality and subject design<br>2) lack of communication and engagement<br>3) some subjects are helpful (e.g.,Second Language Writing<br>and Language Curriculum Design)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Social life</td>
+    <td>1) not much participation<br>2) mainly depends on social media to communicate<br>3) lockdown makes it harder to visit friends or gather together</td>
+  </tr>
+  <tr>
+    <td>Future working<br>plan</td>
+    <td>1) hard to find an internship or part-time job in Melbourne due<br>to the pandemic<br>2) prepare for certificates and improve job-related experiences<br></td>
+  </tr>
+</tbody>
+</table>
+
 ## 4.1 Common themes of the interviews
 
 In studying during the pandemic, the interviewees reported the online learning quality is generally ‘good’. For example, the content of most subjects during online learning is still guaranteed since the arrangement and assignment are suitable and attractive for students in this program. Also, remote learning enables students to save time in transportation. In contrast, due to the limited communication between students and teachers and students with other peers, it’s hard to solve some problems in learning in time.
