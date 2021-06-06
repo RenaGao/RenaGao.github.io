@@ -24,55 +24,56 @@ This report contains several sections. First, the methodology will be presented,
 ## 2 Methodology 
 ## 2.1 Partcipants 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k8z9{background-color:#cbcefb;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-t5pq{background-color:#cbcefb;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Name</span></th>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Major</span></th>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Speciali-</span><br>zation </th>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Previous </span><br><span style="font-style:normal;text-decoration:none">Major</span></th>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Learning </span><br><span style="font-style:normal;text-decoration:none">Stage </span></th>
-    <th class="tg-k8z9"><span style="font-style:normal;text-decoration:none">Working </span><br><span style="font-style:normal;text-decoration:none">E</span>xperience </th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Name</span></th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Major</span></th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Speciali-</span><br>zation </th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Previous </span><br><span style="font-style:normal;text-decoration:none">Major</span></th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Learning </span><br><span style="font-style:normal;text-decoration:none">Stage </span></th>
+    <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Working </span><br><span style="font-style:normal;text-decoration:none">E</span>xperience </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Katrina</span></td>
-    <td class="tg-t5pq" rowspan="4"><br><br><br><br><br>Master of <br><span style="font-weight:400;font-style:normal;text-decoration:none">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Linguistics </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">points)</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Double Major: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Horticulture+</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Business English</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Volunteer English teacher </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">during studying abroad</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Katrina</span></td>
+    <td class="tg-0lax" rowspan="4"><br><br><br><br><br>Master of <br><span style="font-weight:400;font-style:normal;text-decoration:none">Applied </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Linguistics </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">points)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Double Major: </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Horticulture+</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Business English</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Volunteer English teacher </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">during studying abroad</span></td>
   </tr>
   <tr>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Siri </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 points) </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Computer Science </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Two years of being an English </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">teacher in a high school in China</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Siri </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 points) </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Computer Science </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Two years of being an English </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">teacher in a high school in China</span></td>
   </tr>
   <tr>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Clarisse</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(150 points)</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Teaching Chinese </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">as a foreign language</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Second </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">5 years of Marketing</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Clarisse</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(150 points)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Teaching Chinese </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">as a foreign language</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Second </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">5 years of Marketing</span></td>
   </tr>
   <tr>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Jasmine</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 points) </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">History</span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester </span></td>
-    <td class="tg-t5pq"><span style="font-weight:400;font-style:normal;text-decoration:none">Interned for one semester as a </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">history teacher in high school</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Jasmine</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">TESOL  </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">(200 points) </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">History</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Third </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Semester </span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">Interned for one semester as a </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">history teacher in high school</span></td>
   </tr>
 </tbody>
 </table>
