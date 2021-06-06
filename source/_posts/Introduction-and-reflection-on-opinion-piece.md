@@ -1,6 +1,7 @@
 ---
 title: Introduction and Reflection on opinion piece
 date: 2021-05-14 15:45:12
+banner_img: assets/images/op_banner.jpeg
 tags: opinion-piece
 ---
 ## Introduction of opinion piece:
