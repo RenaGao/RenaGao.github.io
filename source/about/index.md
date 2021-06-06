@@ -7,6 +7,10 @@ Welcome to my blog!
 
 I’m Rena, a current MA student at the University of Melbourne, my major is Applied Linguistics.
 
+<div align=center>
+<img src="/assets/images/aboutpicme.jpeg" width="600" height="350" />
+</div>
+
 On this e-portfolio website, you can have a look at my written pieces in Professional Literacies, and how I develop my thoughts on this subject.
 
 ## What to know more?
