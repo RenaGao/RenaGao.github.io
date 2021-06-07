@@ -3,9 +3,6 @@ title: About me
 date: 2021-06-05 01:20:34
 ---
 
-<div align=center>
-<img src="/assets/images/aboutpicme.jpeg" width="600" height="350" />
-</div>
 
 ## Welcome to my blog!
 
@@ -15,6 +12,9 @@ On this e-portfolio website, you can have a look at my written pieces in Profess
 
 ### Want to know more?
 
+<div align=center>
+    <img src="/assets/images/aboutpicme.jpeg" align="right" width="500" height="300" style="padding: 0; margin-right:20px"><br />
+</div>
 You can also follow me on Twitter or Instagram:
 
 Twitter: @[Rena Gao](https://twitter.com/weiweigao1997) 
