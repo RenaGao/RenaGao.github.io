@@ -99,24 +99,34 @@ Based on the interview data and analysis, four interviewers concluded the impact
 ## 3.1 Studying experience 
 
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th colspan="2">Studying experience </th>
+    <th class="tg-wa1i" colspan="2"><span style="font-weight:600">Studying experience</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Advantages of <br>online learning</td>
-    <td>1) the overall teaching quality was guaranteed<br>2) less-constrained time consuming</td>
+    <td class="tg-yla0">Advantages of<br>online learning</td>
+    <td class="tg-cly1">1) the overall teaching quality was guaranteed<br>2) less-constrained time consuming</td>
   </tr>
   <tr>
-    <td>Challenges of <br>online learning </td>
-    <td>1) limited interaction and low engagement in the class<br>2) lack of learning atmosphere</td>
+    <td class="tg-yla0">Challenges of<br>online learning</td>
+    <td class="tg-cly1">1) limited interaction and low engagement in the class<br>2) lack of learning atmosphere</td>
   </tr>
   <tr>
-    <td>Communication with<br>teachers and classmates</td>
-    <td>1) lack of instant response and feedback<br></td>
+    <td class="tg-yla0">Communication with<br>teachers and classmates</td>
+    <td class="tg-cly1">1) lack of instant response and feedback</td>
   </tr>
 </tbody>
 </table>
