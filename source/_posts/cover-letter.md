@@ -2,7 +2,7 @@
 title: Cover Letter
 banner_img: /assets/images/job.jpeg
 date: 2021-05-18 15:45:12
-tags: job_set 
+tags: job set 
 index_img: assets/images/coverletterpic1.jpeg
 ---
 # Cover Letter
