@@ -11,7 +11,7 @@ index_img: assets/images/interviewspic2.jpeg
     <img src="/assets/images/insertintervierviewpic2.png" align="left" width="500" height="300" style="padding: 0; margin-right:20px"><br />
 </div>
 
-
+----------
 
 # How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
 
@@ -20,6 +20,7 @@ This report investigates the studying status and life experiences of current stu
 
 This research involved four master students in the School of Languages and Linguistics in conducting independent semi-structured interviews. We analysed their opinions and reflections on their studying experience, social life and working plan during the pandemic. Through this interview, we realised that the Chinese international students had encountered enormous challenges during the pandemic in Melbourne, such as barriers created by online learning and teaching. However, most participants still thought the subjects were valuable and practical for their future work preparation. As for social life and extracurricular activities, they reported that it was hard for them to participate in Melbourne activities due to the pandemic outbreak and the lockdown. Finally, we concluded with recommendations for international students, including studying, social life and working plan in their future study abroad life.
 
+----------
 
 ## 1 Introduction
 
@@ -29,6 +30,7 @@ However, after the outbreak of COVID-19, many international students experienced
 
 This report contains several sections. First, the methodology will be presented, including the information of the four interviewees and the method of the interview. Follow by the findings around three themes (studying experience, social life and working plan). Finally, this report provides recommendations to improve studying abroad life for international students living in Melbourne.
 
+----------
 
 ## 2 Methodology 
 ## 2.1 Partcipants 
@@ -91,6 +93,8 @@ The information of participants shows in Table 1. Four interviewees are internat
 
 ## 2.2 Method 
 This research was conducted with semi-structured online interviews via Zoom in English, which lasted about 40 minutes. This interview covered 21 interview questions in four sections: background information, studying experience during the pandemic, social life experience, ex- tracurricular activities, and future working plans. These questions were sent to the interviewees in advance, and in-depth questioning would be employed when necessary during the interview. All interviews are video recorded, and four interviewers would watch the recording to find the common points and individual variance concerning the impact of COVID-19 on international students.
+
+----------
 
 ## 3 Findings
 Based on the interview data and analysis, four interviewers concluded the impact of the pandemic on international students from three aspects: studying experience, social activities, and future working plan.
@@ -235,6 +239,7 @@ Talking about preparing for future work, all four participants reported that an 
 
 Most interviewees said that they had obtained the qualification certificate for Teaching English to Speakers of Other Languages (TESOL). Besides the professional certification, improving language-related working experience is also essential. For example, Jasmine and Katrina prefer to find a job in Melbourne to increase their teaching skills. Jasmine plans to use the summer term to work as a teaching assistant in a private education intuition. She believed that having overseas teaching experience will greatly help her find a job in China.
 
+----------
 
 ## 4 Recommendations for students and staff
 
@@ -299,9 +304,13 @@ Professional Literacies or Intercultural Communication
 should emphasize more on teaching English as a second language)
 - provide more subject information on the website of the School of Languages and Linguistics to help students better set their study plan
 
+----------
+
 ## 5 Conclusions and outlook
 
 This interview report presents the impact of the pandemic on international students in Australia. It reveals various challenges that international students encountered, including studying, social life and working plan. Based on the interviews, practical recommendations are provided for students and staff in the School of Languages and Linguistics. However, the sample size of the current study is limited for proposing general recommendations. Moreover, all interviews were online due to the influence of post-pandemic, which may influence the authenticity of this study. In conclusion, this report serves as a typical case for international students to help them improve their studying abroad life during the post-pandemic stage in Australia.
+
+----------
 
 ## Reference
 
