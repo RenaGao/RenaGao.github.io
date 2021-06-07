@@ -332,7 +332,7 @@ navbar:
       }
     # - { key: "archives", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "categories", link: "/categories/", icon: "iconfont icon-category-fill" }
-    # - { key: "tags", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "tags", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
