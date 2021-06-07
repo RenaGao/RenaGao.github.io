@@ -36,7 +36,7 @@ This report contains several sections. First, the methodology will be presented,
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<caption style="text-align: center;">Table 1</caption>
+<caption style="text-align: center;">Background information of four participants</caption>
 <thead>
   <tr>
     <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Name</span></th>
@@ -92,7 +92,7 @@ Based on the interview data and analysis, four interviewers concluded the impact
 
 
 <table>
-<caption style="text-align: center;">Table 2</caption>
+<caption style="text-align: center;">Key findings in studying experience</caption>
 <thead>
   <tr>
     <th colspan="2">Studying experience </th>
@@ -145,7 +145,7 @@ Teacher-and-student communication mainly depended on emails. Although most inter
 ### 3.2 Social life and interaction
 
 <table>
-<caption style="text-align: center;">Table 3</caption>
+<caption style="text-align: center;">Key findings in social life</caption>
 <thead>
   <tr>
     <th colspan="2">social life and interaction </th>
@@ -198,7 +198,7 @@ In addition, during the pandemic, the opportunities of interacting with the loca
 ### 3.3 Future working plan
 
 <table>
-<caption style="text-align: center;">Table 4</caption>
+<caption style="text-align: center;">Key findings in future working plan</caption>
 <thead>
   <tr>
     <th colspan="2">Future working plan</th>
@@ -238,7 +238,7 @@ Most interviewees said that they had obtained the qualification certificate for 
 ## 4 Recommendations for students and staff
 
 <table>
-<caption style="text-align: center;">Table 5</caption>
+<caption style="text-align: center;">Common themes in the findings</caption>
 <thead>
   <tr>
     <th>Studying<br>experience</th>
