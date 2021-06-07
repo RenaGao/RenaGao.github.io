@@ -42,7 +42,8 @@ This report contains several sections. First, the methodology will be presented,
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg"  align=center>
+    <caption style="text-align: center;">Table 1: Background information of four participants</caption>
 <thead>
   <tr>
     <th class="tg-amwm"><span style="font-style:normal;text-decoration:none">Name</span></th>
@@ -109,7 +110,7 @@ Based on the interview data and analysis, four interviewers concluded the impact
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" align=center>
     <caption style="text-align: center;">Table 2: Key findings in studying experience</caption>
 <thead>
   <tr>
@@ -171,24 +172,36 @@ Teacher-and-student communication mainly depended on emails. Although most inter
 
 ## 3.2 Social life and interaction
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"  align=center>
+    <caption style="text-align: center;">Table 3: Key findings in social life</caption>
 <thead>
   <tr>
-    <th colspan="2">social life and interaction </th>
+    <th class="tg-wa1i" colspan="2"><span style="font-weight:600">social life and interaction</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>University activities and<br>other events</td>
-    <td>1) attendances for different categories of university activities<br>2) practical choice for other activities outside the university</td>
+    <td class="tg-yla0">University activities and<br>other events</td>
+    <td class="tg-cly1">1) attendances for different categories of university activities<br>2) practical choice for other activities outside the university</td>
   </tr>
   <tr>
-    <td>Challenges in daily lives</td>
-    <td><br>1) challenges in buying living resources<br>2) difficulties in daily life during lockdown</td>
+    <td class="tg-yla0">Challenges in daily lives</td>
+    <td class="tg-0lax">1) challenges in buying living resources<br>2) difficulties in daily life during lockdown</td>
   </tr>
   <tr>
-    <td>Daily interactions in life</td>
-    <td>1) interactions with friends mostly via social networking<br>2) limited interaction and low engagement in Australian culture</td>
+    <td class="tg-yla0">Daily interactions in life</td>
+    <td class="tg-cly1">1) interactions with friends mostly via social networking<br>2) limited interaction and low engagement in Australian culture</td>
   </tr>
 </tbody>
 </table>
@@ -225,22 +238,34 @@ In addition, during the pandemic, the opportunities of interacting with the loca
 
 ## 3.3 Future working plan
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" align=center>
+    <caption style="text-align: center;">Table 4: Key findings in future working plan</caption>
 <thead>
   <tr>
-    <th colspan="2">Future working plan</th>
+    <th class="tg-wa1i" colspan="2"><span style="font-weight:600">Future working plan</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Internship in Australia</td>
-    <td>1) not so many suitable positions<br>2) hard to find a suitable internship during the pandemic</td>
+    <td class="tg-yla0">Internship in Australia</td>
+    <td class="tg-cly1">1) not so many suitable positions<br>2) hard to find a suitable internship during the pandemic</td>
   </tr>
   <tr>
-    <td>Preparation for future work</td>
-    <td>1) improve professional knowledge<br>2) prepare for a job qualification certificate<br></td>
+    <td class="tg-yla0">Preparation for future work</td>
+    <td class="tg-cly1">1) improve professional knowledge<br>2) prepare for a job qualification certificate</td>
   </tr>
 </tbody>
+</table>
 </table>
 
 Table 4 shows the key findings in the future working plan. All participants mentioned that finding a part-time job or an internship was extremely hard because the pandemic caused fewer employments in the language-related areas. Therefore, they mainly focus on professional knowledge and job certifications for their future work preparation.
@@ -264,21 +289,31 @@ Most interviewees said that they had obtained the qualification certificate for 
 
 ## 4 Recommendations for students and staff
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" align=center>
+    <caption style="text-align: center;">Table 5: Common themes in the findings</caption>
 <thead>
   <tr>
-    <th>Studying<br>experience</th>
-    <th>1) generally good in teaching quality and subject design<br>2) lack of communication and engagement<br>3) some subjects are helpful (e.g.,Second Language Writing<br>and Language Curriculum Design)</th>
+    <th class="tg-yla0">Studying<br>experience</th>
+    <th class="tg-cly1">1) generally good in teaching quality and subject design<br>2) lack of communication and engagement<br>3) some subjects are helpful (e.g.,Second Language Writing<br>and Language Curriculum Design)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Social life</td>
-    <td>1) not much participation<br>2) mainly depends on social media to communicate<br>3) lockdown makes it harder to visit friends or gather together</td>
+    <td class="tg-yla0">Social life</td>
+    <td class="tg-cly1">1) not much participation<br>2) mainly depends on social media to communicate<br>3) lockdown makes it harder to visit friends or gather together</td>
   </tr>
   <tr>
-    <td>Future working<br>plan</td>
-    <td>1) hard to find an internship or part-time job in Melbourne due<br>to the pandemic<br>2) prepare for certificates and improve job-related experiences<br></td>
+    <td class="tg-yla0">Future working<br>plan</td>
+    <td class="tg-cly1">1) hard to find an internship or part-time job in Melbourne due<br>to the pandemic<br>2) prepare for certificates and improve job-related experiences<br></td>
   </tr>
 </tbody>
 </table>
