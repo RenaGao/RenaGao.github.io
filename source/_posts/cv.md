@@ -32,8 +32,8 @@ Here is my CV
         </a>
     </article>
     <article class="post-next col-6">
-        <a href="/2021/05/18/cover-letter/" style="text-decoration: none;">
-            <span class="hidden-mobile">Cover Lette</span>
+        <a href="/2021/05/20/response/" style="text-decoration: none;">
+            <span class="hidden-mobile">Response</span>
             <span class="visible-mobile">Next</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
