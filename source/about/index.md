@@ -24,7 +24,7 @@ On this e-portfolio website, you can have a look at my written pieces in Profess
 
 <i class="iconfont icon-twitter-fill"></i> Twitter: @[Rena Gao](https://twitter.com/weiweigao1997) 
 
-<i class="iconfont icon-instagram-fill"> Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
+<i class="iconfont icon-instagram-fill"></i> Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
 
 
 <br>
