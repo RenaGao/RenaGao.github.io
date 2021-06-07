@@ -20,9 +20,11 @@ On this e-portfolio website, you can have a look at my written pieces in Profess
 ### Want to know more? 👇  
 
 
-Twitter: @[Rena Gao](https://twitter.com/weiweigao1997) 
 
-Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
+
+<i class="iconfont icon-twitter-fill"></i> Twitter: @[Rena Gao](https://twitter.com/weiweigao1997) 
+
+<i class="iconfont icon-instagram-fill">Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
 
 
 <br>
@@ -30,6 +32,6 @@ Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
 
 ### Academic publication? 👇 
 
-Google scholar: @[Rena Gao](https://scholar.google.com/citations?hl=zh-CN&user=tlrRR9cAAAAJ&view_op=list_works&gmla=AJsN-F7m_rftwvc7sZ-9qRK9xND_oTFwbVii7Kdt7VivGX4gz16cy7a-wSi8ZtBw7WhtjSjfWWwuTz5HsC230Oae0kRqBjQOewmZhFIu_3HeBjpTUOIJZh5JJJUnT1Kt4WXbiNMTkqSy)
+<i class="iconfont icon-google-fill"></i> Google scholar: @[Rena Gao](https://scholar.google.com/citations?hl=zh-CN&user=tlrRR9cAAAAJ&view_op=list_works&gmla=AJsN-F7m_rftwvc7sZ-9qRK9xND_oTFwbVii7Kdt7VivGX4gz16cy7a-wSi8ZtBw7WhtjSjfWWwuTz5HsC230Oae0kRqBjQOewmZhFIu_3HeBjpTUOIJZh5JJJUnT1Kt4WXbiNMTkqSy)
 
 
