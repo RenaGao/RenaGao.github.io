@@ -2,7 +2,7 @@
 title: Response to Graduate Attributes
 banner_img: /assets/images/job.jpeg
 date: 2021-05-20 01:23:24
-tags: 
+tags: job_set
 index_img: assets/images/responsepic2.jpeg
 ---
 
