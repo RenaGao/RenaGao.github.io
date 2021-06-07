@@ -25,11 +25,12 @@ Before conducting this assignment, I have interview experience when I was Resear
 
 - Make everyone clear about their role
 
-To be honest, this is the most challenging part for me since the other three group members don’t have any interview experience, so making all members understanding their role in the first place is quite difficult. So, I use several times to show them the difference between interview and conversation and how to analyse interview discourse from an objective perspective. Besides, we used Google Doc to mark everyone's progress in the interview so that the whole group could be much clearer about the situation of the program. Although four group members mainly worked remotely due to the post-pandemic reason, the weekly meeting went on pretty well.
+
+To be honest, this is the most challenging part for me since the other three group members don’t have any interview experience, so making all members understand their role in the first place is quite difficult. So, I use several meetings to show them the difference between an interview and conversations and how to analyse interview data from an objective perspective. Besides, we employ Google Doc to demonstrate everyone's progress in the interview so that the whole group could be much clearer about this program. Although four group members mainly worked online due to the post-pandemic reason, the weekly meeting went on pretty well. 
 
 - Time management is everything
 
-When the group are working on the interview and the report, there are other assignments due at the same time. After everyone finalized their part, I would look through the whole interview report and correct some typos and grammar mistakes. Thus, it is essential to allocate the duty in a reasonable schedule. Through this assignment, I learned the skills of collaborative writing and professionally interview. Especially about the processes from designing interview questions to finalizing the transcript.
+When the group is working on the interview report, there are other assignments due at the same time. Thus, it is essential to allocate the duty in a reasonable schedule. After everyone finalized their part, I look through the whole interview report and correct some typos and grammar mistakes. Through this assignment, I learned the skills of collaborative writing and interview design, especially the processes of designing interview questions.
 
 ---
 
