@@ -10,6 +10,8 @@ I’m Rena, a current MA student at the University of Melbourne, my major is App
 
 On this e-portfolio website, you can have a look at my written pieces in Professional Literacies, and how I develop my thoughts on this subject.
 
+---
+
 ### Want to know more?
 
 <div align=center>
@@ -23,6 +25,7 @@ Instagram: @[renagao_2222](https://www.instagram.com/renagao2222__/)
 
 
 <br>
+---
 
 ### If you want to read more about my academic publications, please check👇 
 
