@@ -3,7 +3,7 @@ title: Introduction and Reflection on interview report
 date: 2021-05-24 12:23:24
 banner_img: assets/images/report.jpeg
 index_img: /assets/images/reflectionicon.jpeg
-tags: interview
+tags: [interview, introduction & reflection]
 ---
 
 
