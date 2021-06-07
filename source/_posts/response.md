@@ -6,11 +6,12 @@ tags: job_set
 index_img: assets/images/responsepic2.jpeg
 ---
 
+# Response to Graduate Attributes: PhD Supervision
+
 <div align=center>
-<img src="/assets/images/aboutpicme.jpeg" width="600" height="350" />
+<img src="/assets/images/Interviewguidepic.jpeg" width="600" height="350" />
 </div>
 
-# Response to Graduate Attributes: PhD Supervision
 ## 1. Academic skills
 ### 1.1. Ability in academic writing
 After successfully completing a bachelor’s degree in English Language and Linguistics at Xi’an International Studies University, and as a current master student in Applied Linguistics at the University of Melbourne, I have been trained to individually conduct academic writing and critical reading. I have
