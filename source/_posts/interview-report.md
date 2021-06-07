@@ -184,7 +184,7 @@ Due to the lockdown, it was hard for the interviewees to visit friends or partic
 
 
 <div align=center>
-    <img src="/assets/images/shopping.jpeg" align="left" width="500" height="300" style="padding: 0; margin-right:20px"><br />
+    <img src="/assets/images/shopping.jpeg" align="center" width="500" height="300" style="padding: 0; margin-right:20px"><br />
 </div>
 
 When it came to challenges in daily life,all four interviewees mentioned that their ability to make shopping plans improved during the pandemic. For example, Jasmine stated that she declined the shopping frequency to once a week due to the lockdown, so she had to buy many glossaries every time. Similarly, Clarrise and Katrina, who lived far away from the city, had to make appropriate lists to ensure they would not waste time in shopping. Siri also mentioned the reason why he chose to go shopping once a week:
