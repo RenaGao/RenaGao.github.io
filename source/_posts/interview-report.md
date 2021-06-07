@@ -110,6 +110,7 @@ Based on the interview data and analysis, four interviewers concluded the impact
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
+    <caption style="text-align: center;">Table 2: Key findings in studying experience</caption>
 <thead>
   <tr>
     <th class="tg-wa1i" colspan="2"><span style="font-weight:600">Studying experience</span></th>
