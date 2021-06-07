@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 banner_img: /assets/images/job.jpeg
 date: 2021-05-18 15:45:12
-tags: job_set 
+tags: job set 
 index_img: assets/images/jobsetpic2.jpeg
 
 ---
@@ -18,7 +18,7 @@ Here is my CV
       <param name="_ExtentY" value="10866"> 
       <param name="_StockProps" value="0"> 
       <param name="SRC" value="/assets/files/CV-converted.pdf"> 
-<embed src="/assets/files/Wei-Gao-PL-PhD-CV.pdf" width="100%" height="800" href="/assets/files/CV-converted.pdf"></embed><!--FF--> 
+<embed src="/assets/files/CV-converted.pdf" width="100%" height="800" href="/assets/files/CV-converted.pdf"></embed><!--FF--> 
 </object>
 
 ---
