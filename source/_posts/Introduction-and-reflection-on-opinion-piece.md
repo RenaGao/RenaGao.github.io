@@ -38,8 +38,8 @@ Also, some thoughts occur to me after receiving the feedback of this opinion pie
     </article>
     <article class="post-next col-6">
         <a href="/2021/05/15/opinion-piece/" style="text-decoration: none;">
-            <span class="hidden-mobile">Main Article</span>
-            <span class="visible-mobile">Next</span>
+            <span class="hidden-mobile">Opinion Piece</span>
+            <span class="visible-mobile">Opinion Piece</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
     </article>
