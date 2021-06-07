@@ -9,7 +9,7 @@ index_img: assets/images/interviewspic2.jpeg
 # How the COVID-19 Pandemic Affects Studying Abroad: A Case of Master Students in School of Languages and Linguistics
 
 <div align=center>
-    <img src="/assets/images/insertintervierviewpic2.png" align="left" width="500" height="300" style="padding: 0; margin-right:20px"><br />
+    <img src="/assets/images/insertintervierviewpic2.png" align="right" width="500" height="300" style="padding: 0; margin-right:20px"><br />
 </div>
 
 ## Executive Summary
