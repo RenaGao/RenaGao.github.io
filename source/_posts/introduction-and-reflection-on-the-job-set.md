@@ -8,7 +8,7 @@ index_img: assets/images/reflectionpic1.jpeg
 
 ## Introduction of the job set:
 
-This job set is mainly about my personal background and research experience in response to the requirement for PhD selection criteria in the Arts faculty of UniMelb and focuses on highlighting my research interest and advantages in perusing further study in the School and Languages and Linguistics.
+This job set is mainly about my personal background and research experience in response to the requirement for PhD selection criteria in the faculty of Arts (Univeristy of Melbourne) and focuses on highlighting my research interests and advantages in perusing further study in the School and Languages and Linguistics.
 
 The set includes three parts, a Cover letter, CV and response to selection criteria respectively. The main purpose of the cover letter is to inform the supervisor whose resrahc interest is matching with my topics and show my highlights in academic research and professional experience. 
 
@@ -56,11 +56,11 @@ Finally, the main focus of the response to selection criteria is to reflect how 
 
 - Challenges in designing this job set:
 
-First of all, the most challenging part in this job set is to suit myself in the requirement of this assignment. Since the genre and cover letter in the real PhD selection is quite different compared to he assignment requirements of this subject in many aspects. For example, in a real CV required for PhD application, a section of proposed topic is necessary for the selection committee. However, in this assignment, the CV does not need to include this part. And I struggled with the different requirements a lot when I started to draft this job set at first.
+First of all, the most challenging part in this job set is to suit myself in the requirement of this assignment. Since the genre and cover letter in the real PhD selection is quite different compared to this assignment in many aspects. For example, in a real CV required for PhD application there has to be a section of proposed topic for the selection committee. However, in this assignment, the CV does not need to include this part. Thus I struggled with the different requirements a lot when I started to draft this job set at first.
 
 - Get to work on this job set:
 
-However, after Janne’s advice and her suggestion in the seminar, I felt much better in understanding this assignment. So, I made several adjustments in drafting this job set. First, I cut several details in my CV, only kept the most relevant experience and highlights in my past research and academic experience. Also, the length of the cover letter was shortened to one page and become more concise in the whole content, and I didn’t include the research purpose which is actually required in the application. Furthermore, for the response to selection criteria, I modified a little bit on the overall structure in order to make it clearer.
+However, after Janne’s advice and her suggestion in the seminar, I felt much better in understanding this assignment. So, I made several adjustments in drafting this job set. First, I cut several details in my orginal CV, only kept the most relevant experience and highlights in my past research and academic experience. Also, the length of the cover letter was shortened to one page and become more concise in the content. Furthermore, for the response to selection criteria, I modified a little bit on the overall structure in order to make it clearer. Some details and expamples were also inclued in this response as well to show my ability. 
 
 - Better understanding on this kind of genre:
 
