@@ -38,7 +38,7 @@ When the group are working on the interview and the report, there are other assi
     <article class="post-next col-6">
         <a href="/2021/05/20/interview-report/" style="text-decoration: none;">
             <span class="hidden-mobile">Interview Report</span>
-            <span class="visible-mobile">Next</span>
+            <span class="visible-mobile">Interview Report</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
     </article>
