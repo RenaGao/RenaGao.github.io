@@ -3,10 +3,7 @@ title: About me
 date: 2021-06-05 01:20:34
 ---
 
-Welcome to my blog!
-
-I’m Rena, a current MA student at the University of Melbourne, my major is Applied Linguistics.
-
+## Welcome to my blog!
 
 
 
@@ -14,12 +11,12 @@ I’m Rena, a current MA student at the University of Melbourne, my major is App
 <img src="/assets/images/aboutpicme.jpeg" width="600" height="350" />
 </div>
 
-
-
+I’m Rena, a current MA student at the University of Melbourne, my major is Applied Linguistics.
 
 On this e-portfolio website, you can have a look at my written pieces in Professional Literacies, and how I develop my thoughts on this subject.
 
 ### Want to know more?
+
 You can also follow me on Twitter or Instagram:
 
 Twitter: @[Rena Gao](https://twitter.com/weiweigao1997) 
