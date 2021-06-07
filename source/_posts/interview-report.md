@@ -143,6 +143,15 @@ Additionally, the relatively relaxed atmosphere of online learning would encoura
 
 ### 3.1.3 Communication with teachers and classmates
 
+<div align=center>
+<figure>
+    <img src="/assets/images/unimelb1.jpeg" align="left" width="500" height="300" style="padding: 0; margin-right:20px" />
+    <figcaption style="color: #6C757D;font-size: 10px;">
+        The campus is desolate during the pandemic
+    </figcaption>
+</figure>
+</div>
+
 Apart from the in-class discussion, student-and-student communication mainly took place in completing group assignments. To better collaborate, all interviewees would utilize social media, such as Facebook, Wechat and Messenger, to collaborate with other group members. Siri also described how his group worked collaboratively through Google Doc, which functioned as a pool to post thoughts and receive feedback from others.
 
 However, there were some problems due to the different time zones among group members. Jasmine reported that the various time zones during online collaboration had caused problematic communication. Therefore, they preferred to form groups with Chinese students for the conve- nience of communication under similar time zone. Consequently, it will reduce opportunities for them to interact in English, resulting in losing the chance to enhance communicative ability during studying abroad.
