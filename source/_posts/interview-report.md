@@ -42,7 +42,7 @@ This report contains several sections. First, the methodology will be presented,
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="center">
+<table class="tg">
     <caption style="text-align: center;">Table 1: Background information of four participants</caption>
 <thead>
   <tr>
