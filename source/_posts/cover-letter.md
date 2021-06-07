@@ -24,7 +24,7 @@ Wei Gao
 
 <div class="post-prevnext">
     <article class="post-prev col-6">
-        <a href="/2021/05/24/introduction-and-reflection-on-the-job-set/" style="text-decoration: none;">
+        <a href="/2021/05/17/introduction-and-reflection-on-the-job-set/" style="text-decoration: none;">
             <i class="iconfont icon-arrowleft"></i>
             <span class="hidden-mobile">Introduction & Reflection</span>
             <span class="visible-mobile">Previous</span>
