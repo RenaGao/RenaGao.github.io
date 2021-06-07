@@ -8,7 +8,7 @@ index_img: assets/images/jobsetpic2.jpeg
 ---
 # Resume
 
-Here is my CV
+Here is my CV, you can download it if you are interested in my background and experience.   
 <div><p>You can download it! <p> <a href="/assets/files/CV-converted.pdf" download="CV-converted.pdf" style="background: #32373c;border-radius: 2em;color: #fff;font-size: 13px;padding: .5em 1em;border: 0;margin-left: .75em;text-decoration: none;transition: all 0.2s ease-in-out 0s;" >Download<a/></div>
 
 
