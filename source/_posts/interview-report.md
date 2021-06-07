@@ -298,7 +298,7 @@ Most interviewees said that they had obtained the qualification certificate for 
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table class="center">
+<table class="tg">
     <caption style="text-align: center;">Table 5: Common themes in the findings</caption>
 <thead>
   <tr>
