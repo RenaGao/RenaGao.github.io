@@ -20,7 +20,7 @@ The set includes three parts, a Cover letter, CV and selection criteria respecti
     <article class="post-next col-6">
         <a href="/2021/05/18/cover-letter/" style="text-decoration: none;">
             <span class="hidden-mobile">Cover Letter</span>
-            <span class="visible-mobile">Next</span>
+            <span class="visible-mobile">Cover Letter</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
     </article>
@@ -31,7 +31,7 @@ The set includes three parts, a Cover letter, CV and selection criteria respecti
     <article class="post-next col-6">
         <a href="/2021/05/18/cv/" style="text-decoration: none;">
             <span class="hidden-mobile">Curriculum Vitae</span>
-            <span class="visible-mobile">Next</span>
+            <span class="visible-mobile">Curriculum Vitae</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
     </article>
@@ -42,7 +42,7 @@ The set includes three parts, a Cover letter, CV and selection criteria respecti
     <article class="post-next col-6">
         <a href="/2021/05/20/response/" style="text-decoration: none;">
             <span class="hidden-mobile">Response</span>
-            <span class="visible-mobile">Next</span>
+            <span class="visible-mobile">Response</span>
             <i class="iconfont icon-arrowright"></i>
         </a>
     </article>
