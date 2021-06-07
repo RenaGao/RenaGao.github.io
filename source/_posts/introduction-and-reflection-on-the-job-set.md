@@ -12,6 +12,8 @@ This job set is mainly about my personal background and research experience in r
 
 The set includes three parts, a Cover letter, CV and selection criteria respectively. The main purpose of the cover letter is to recommend me to the supervisor who is matching with my research interest and show my highlights in academic research and professional experience. The second part (CV) is mainly about detailed information about me, such as past educational background, publications, professional experience, research outcome and skills. Finally, the main focus of the response to selection criteria is to reflect how I meet each selection criteria in perusing for a PhD study in UniMelb. 
 
+---
+
 <div class="post-prevnext">
     <article class="post-prev col-6">
     </article>
