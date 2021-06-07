@@ -145,7 +145,7 @@ Additionally, the relatively relaxed atmosphere of online learning would encoura
 
 <div align=center>
 <figure>
-    <img src="/assets/images/unimelb1.jpeg" align="left" width="500" height="300" style="padding: 0; margin-right:20px" />
+    <img src="/assets/images/unimelb1.jpeg" align="center" width="500" height="300" style="padding: 0; margin-right:20px" />
     <figcaption style="color: #6C757D;font-size: 10px;">
         The campus is desolate during the pandemic
     </figcaption>
