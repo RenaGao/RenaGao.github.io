@@ -110,7 +110,7 @@ Based on the interview data and analysis, four interviewers concluded the impact
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table class="center" >
+<table class="tg" >
     <caption style="text-align: center;">Table 2: Key findings in studying experience</caption>
 <thead>
   <tr>
@@ -183,7 +183,7 @@ Teacher-and-student communication mainly depended on emails. Although most inter
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="center">
+<table class="tg">
     <caption style="text-align: center;">Table 3: Key findings in social life</caption>
 <thead>
   <tr>
@@ -248,7 +248,7 @@ In addition, during the pandemic, the opportunities of interacting with the loca
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table class="center">
+<table class="tg">
     <caption style="text-align: center;">Table 4: Key findings in future working plan</caption>
 <thead>
   <tr>
