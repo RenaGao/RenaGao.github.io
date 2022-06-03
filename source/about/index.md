@@ -6,7 +6,7 @@ date: 2021-06-05 01:20:34
 
 ## Welcome to my blog!
 
-I’m Rena, a current MA student at the University of Melbourne, my major is Applied Linguistics. My reserach interest is Second Language Pragmatics (SLP), language testing and discourse analysis. I current live in Melbroune with my boyfriend and our cats. 
+I’m Rena, a current PhD student at the University of Melbourne, my major is Computional Linguistics. My reserach interest is Natural Language Processing, language testing and conversation agent for ESL speakers. I current live in Melbroune with my two cats. 
 
 On this e-portfolio website, you can have a look at my written pieces in Professional Literacies, and how I develop my thoughts.
 
